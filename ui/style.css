@@ -28,6 +28,23 @@ body {
     vertical-align: middle;
 
 }
+
+#sectionA
+{
+   float:left;
+   width: 20%;
+}
+#sectionB
+{
+   float:left;
+   width: 80%;
+}
+
+#sectionB
+{
+   clear:both;
+   width: 100%;
+
     
 .bggimg{
     background-image: url(http://hddesktopwallpapers.in/wp-content/uploads/2015/06/Plain-Wallpapers-HD-A40.jpg);
