@@ -2,6 +2,7 @@ body {
     font-family: britanic bold;
     background-color: white;
     margin-top: 75px;
+    
 }
 
 .center {
@@ -19,4 +20,10 @@ body {
 .img-medium {
     height: 100px;
 }
+    
+.bggimg{
+    background-image: url(/ui/images/bgg.jpg);
+    
+}
+
 
