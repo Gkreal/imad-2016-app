@@ -1,16 +1,18 @@
 body {
     font-family: britanic bold;
-  background-color: yellow;
+  background-color: white;
 
     margin: auto;
     width: 500px;
-    
+  
+     background-repeat: repeat-y;
 }
 
 
 
 .text-big {
     font-size: 80%;
+     text-shadow: 2px 2px green;
 }
 
 .bold {
