@@ -5,7 +5,7 @@ body {
     margin: auto;
     width: 500px;
   
-     background-repeat: repeat-y;
+     
      
 }
 
@@ -30,7 +30,7 @@ body {
 }
     
 .bggimg{
-    background-image: url(http://hddesktopwallpapers.in/wp-content/uploads/2015/06/Plain-Wallpapers-HD-A40.jpg);
+    background-image: url(ui/bgg.jpg);
     
 }
 
