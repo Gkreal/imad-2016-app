@@ -17,6 +17,9 @@ body {
     font-weight: bold;
 }
 
+p{
+    color: Green;
+}
 .img-medium {
     height: 100px;
     width: 100px;
