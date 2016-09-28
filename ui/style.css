@@ -19,7 +19,8 @@ h1{
     text-decoration: italics;
 }
 p{
-    color: black;
+    color: #CD1076;
+    font-weight:bold;
 }
 .img-medium {
     height: 100px;
