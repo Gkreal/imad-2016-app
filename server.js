@@ -7,7 +7,7 @@ app.use(morgan('combined'));
 
 var articleOne = {
     title:'Article one| Garima Khanna',
-    heading:'Article one',
+    heading:'Welcome!',
     content:`<p>
                 Lets Go!
             </p>`
