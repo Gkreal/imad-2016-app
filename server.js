@@ -37,12 +37,7 @@ function createTemplate  (data){
             <div>
                 ${content}
             </div>
-            <div>
-                <p>
-                    Lets Go!
-                 </p>
-                 
-            </div>
+            
              </div>
         </body>
      </html>
