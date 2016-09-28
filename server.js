@@ -5,6 +5,47 @@ var path = require('path');
 var app = express();
 app.use(morgan('combined'));
 
+var content = {
+    title:'Article one| Garima Khanna',
+    heading:'Article one',
+   
+};
+
+var htmlTemplate =
+'<html>
+        <head>
+            <title>
+                Article one|Garima Khanna
+            </title>
+             <link href="/ui/style.css" rel="stylesheet" />
+        
+        </head>
+        
+        <body>
+            <div class ='container'>
+            <div>
+                <a href = '/'>Go Back to home page</a>
+            </div>
+            <hr/> 
+            <h3>
+                Welcome!
+            </h3>
+            <div>
+                "Shewrks" A best place to find a job
+            </div>
+            <div>
+                <p>
+                    Lets Go!
+                    
+                </p>
+             
+            </div>
+             </div>
+    </body>
+</html>'
+  ;
+
+
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
  });
