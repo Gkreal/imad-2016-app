@@ -13,14 +13,14 @@ var articles = {
                     Lets Go!
                 </p>`
     },
-    'article-two':{
+    'article-Two':{
         title:'Article two| Garima Khanna',
         heading:'Welcome!',
         content:`<p>
                     Lets Go!
                 </p>`
     },
-    'article-three':{
+    'article-Three':{
         title:'Article three| Garima Khanna',
         heading:'Welcome!',
         content:`<p>
@@ -66,18 +66,11 @@ app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
  });
 
-app.get('/ArticleName',function( req, res){
+app.get('/articleName',function( req, res){
     //articlename= Article-one
         var articleName= req.params.articleName;
         res.send(createTemplate(articles(articleName)));
 });
-
-
-
-app.get('/Article-three',function( req, res){
-   res.sendFile(path.join(__dirname, 'ui', 'article-three.html'));
-});
-
 
 app.get('/ui/style.css', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'style.css'));
