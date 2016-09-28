@@ -33,23 +33,14 @@ p{
 
 }
 
-#sectionA
-{
-   float:left;
-   width: 20%;
-}
-#sectionB
-{
-   float:left;
-   width: 80%;
-}
-
-#sectionB
-{
-   clear:both;
-   width: 100%;
-
-    
-}
-
-
+.container{
+            max-width: 800px;
+            margin-left: auto;
+            margin-right:auto;
+            color: #CD1076;
+            font-family: britannic bold;
+            background-color: #FEF1E9;
+            text-align:center;
+            padding-left:20px;
+            padding-right:20px;
+        }
