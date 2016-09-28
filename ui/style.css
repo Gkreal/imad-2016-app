@@ -17,6 +17,10 @@ body {
     font-weight: bold;
 }
 
+h{
+    color:red;
+    text-decoration: italics;
+}
 p{
     color: Green;
 }
