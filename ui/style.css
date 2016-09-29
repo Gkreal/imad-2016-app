@@ -1,7 +1,6 @@
 .body {
     font-family: britanic bold;
-    
-    margin:auto;
+    margin :auto;
     width: 500px;
     text-align: center;
    }
@@ -14,11 +13,11 @@
     font-weight: bold;
 }
 
-h1{
+.h1{
     color:red;
     text-decoration: italics;
 }
-p{
+.p{
     color: black;
     font-weight:bold;
 }
