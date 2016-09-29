@@ -29,8 +29,9 @@ p{
     vertical-align: middle;
 }
 .bgg{
-    background-image: url('/ui/bgg.jpg');
+    background-image: url(/ui/bgg.jpg);
 }
+
 .container{
             max-width: 800px;
             margin-left: auto;
