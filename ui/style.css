@@ -3,8 +3,7 @@ body {
     margin-top:100px;
     margin:auto;
     width: 500px;
-    background : url(/ui/bgg.jpg);
- }
+   }
 .text-big {
     font-size: 80%;
      text-shadow: 2px 2px green;
@@ -28,10 +27,10 @@ p{
     margin:auto;
     display: inline-block;
     vertical-align: middle;
- 
-
 }
-
+.bgg{
+    background-image: url('/ui/bgg.jpg');
+}
 .container{
             max-width: 800px;
             margin-left: auto;
