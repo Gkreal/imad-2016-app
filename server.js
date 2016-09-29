@@ -47,7 +47,7 @@ var articles = {
                 <a href = '/'>Go Back to home page</a>
                 <br>
                 <a href='http:// 'http://garimareal.blogspot.in' >My Blog</a>
-                <span style="color: black; font-family: &quot;verdana&quot;; font-size: x-small;">Contact Me</span>
+                <span style="bottom:-5px; color: black; font-family: &quot;verdana&quot;; font-size: x-small;">Contact Me</span>
             </div>
             <hr/> 
             <h3>
