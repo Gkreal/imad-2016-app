@@ -21,8 +21,8 @@ p{
     color: black;
     font-weight:bold;
 }
-img-medium {
-    height: 10px;
+.img-medium {
+    height: 90px;
     width: 10px;
     margin:auto;
     display: inline-block;
