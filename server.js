@@ -45,6 +45,7 @@ var articles = {
             <div class ="container">
             <div>
                 <a href = '/'>Go Back to home page</a>
+                <a href='http://garimareal.blogspot.in' >http://garimareal.blogspot.in></a>
             </div>
             <hr/> 
             <h3>
