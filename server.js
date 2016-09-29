@@ -54,7 +54,7 @@ var articles = {
              <div>
                 <a href = '/'>Go Back to home page</a>
                 <br>
-                <a href= "http://garimareal.blogspot.in" style="bottom: -5px; padding-left: 3px; width:10px; height:10px; position: relative;"><img src="http://tse3.mm.bing.net/th?id=OIP.M83d8a37a07bd50dd4b3c351941165a81o0&pid=15.1" /></span> </a>
+                <a href= "http://garimareal.blogspot.in" style="bottom: -5px; padding-left: 3px; width:1px; height:1px; position: relative;"><img src="http://tse3.mm.bing.net/th?id=OIP.M83d8a37a07bd50dd4b3c351941165a81o0&pid=15.1" /></span> </a>
             </div>
             
              </div>
