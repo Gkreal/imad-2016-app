@@ -52,9 +52,11 @@ var articles = {
                 ${content}
             </div>
              <div>
-                <a href = '/'>Go Back to home page</a>
+                <a href = '/'> Home </a>
                 <br>
                 <a href= "http://garimareal.blogspot.in" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.aerzenusa.com/var/aerzen/storage/images/media/ressources_us/logos/blog-logo/364462-1-eng-GB/Blog-Logo_small.jpg" /></span> </a>
+                
+                <a href= "https://www.facebook.com/ginni1806" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="<a href= "http://garimareal.blogspot.in" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.aerzenusa.com/var/aerzen/storage/images/media/ressources_us/logos/blog-logo/364462-1-eng-GB/Blog-Logo_small.jpg" /></span> </a>" /></span> </a>
             </div>
             
              </div>
