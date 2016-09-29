@@ -12,7 +12,7 @@ var articles = {
         content:`<p>
                     Hi! i am Garima.
                     I welcome you to my webapp.Being new to this field , i found this work really very exciting !
-                    Its great to learn more , know more about CSS, HTML,Javascript and other basic concepts for developing an app.
+                    Its great to learn , know more about CSS, HTML,Javascript and other basic concepts for developing an app.
                     The follwing are the details about me . 
                     <li>
                 
