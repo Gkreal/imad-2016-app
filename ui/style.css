@@ -22,8 +22,8 @@ p{
     font-weight:bold;
 }
 .img-medium {
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     margin:auto;
     display: inline-block;
     vertical-align: middle;
