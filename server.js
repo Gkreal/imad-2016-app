@@ -60,9 +60,7 @@ var articles = {
                 <a href= '/' style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.gifs.cc/home/home-flash-animated-button.gif" /></span> </a>
                 <br>
                 <br>
-                <a href= "http://garimareal.blogspot.in" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.aerzenusa.com/var/aerzen/storage/images/media/ressources_us/logos/blog-logo/364462-1-eng-GB/Blog-Logo_small.jpg" /></span> </a>
-                
-                <a href= "https://www.facebook.com/ginni1806" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://tse3.mm.bing.net/th?id=OIP.M138d7d3ba6f7a02c75d55daa1459a21eo0&pid=15.1" /></a>
+               
             </div>
             
              </div>
