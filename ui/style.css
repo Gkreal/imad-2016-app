@@ -1,8 +1,9 @@
 .body {
     font-family: britanic bold;
-    margin-top:100px;
+    
     margin:auto;
     width: 500px;
+    text-align: centre;
    }
 .text-big {
     font-size: 80%;
