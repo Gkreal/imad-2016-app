@@ -3,7 +3,7 @@ body {
     margin-top:100px;
     margin:auto;
     width: 500px;
-    background: url('/ui/bgg.jpg');
+    background-image: url('/ui/bgg.jpg');
  }
 .text-big {
     font-size: 80%;
