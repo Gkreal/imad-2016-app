@@ -43,6 +43,7 @@ var articles = {
         </head>
          <body>
             <div class ="container">
+            <div class ="bgg">
             <div>
                 <a href = '/'>Go Back to home page</a>
             </div>
