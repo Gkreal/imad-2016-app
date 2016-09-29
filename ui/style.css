@@ -3,7 +3,7 @@ body {
     margin-top:100px;
     margin:auto;
     width: 500px;
-    background-image: url("/ui/bgg.jpg");
+    background : url(/ui/bgg.jpg);
  }
 .text-big {
     font-size: 80%;
@@ -26,9 +26,9 @@ p{
     height: 100px;
     width: 100px;
     margin:auto;
-    
     display: inline-block;
     vertical-align: middle;
+ 
 
 }
 
