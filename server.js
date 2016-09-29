@@ -45,7 +45,9 @@ var articles = {
             <div class ="container">
             <div>
                 <a href = '/'>Go Back to home page</a>
-                <a href='http://garimareal.blogspot.in' >http://garimareal.blogspot.in></a>
+                <br>
+                <a href='http:// My Blog' >http://garimareal.blogspot.in></a>
+                <span style="color: black; font-family: &quot;verdana&quot;; font-size: x-small;">Contact Me</span>
             </div>
             <hr/> 
             <h3>
