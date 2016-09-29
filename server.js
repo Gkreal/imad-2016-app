@@ -13,14 +13,14 @@ var articles = {
                     Lets Go!
                 </p>`
     },
-    'article-Two':{
+    'article-two':{
         title:'Article two| Garima Khanna',
         heading:'Welcome!',
         content:`<p>
                     Lets Go!
                 </p>`
     },
-    'article-Three':{
+    'article-three':{
         title:'Article three| Garima Khanna',
         heading:'Welcome!',
         content:`<p>
