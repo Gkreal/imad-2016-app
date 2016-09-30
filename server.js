@@ -11,7 +11,7 @@ var articles = {
         heading:' ',
         content:`<p>
         <br>
-         background-image: url("http://www.flashcoo.com/cartoon/da_3D_design/images/funny_3d_design_Charming_Prince.jpg");
+         
     <br><h1>Hi There!</h1>
         <br>
        <br>
