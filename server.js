@@ -10,6 +10,7 @@ var articles = {
         title:'Article one| Garima Khanna',
         heading:'Hi There',
         content:`<p>
+        <br><br><br><br><br>
         'This is my friend bob';
                     <img src="http://www.gifs.net/Animation11/Creatures_and_Cartoons/Cartoon_Characters/Blue_thing.gif">
                     <li>
