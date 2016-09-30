@@ -34,15 +34,12 @@ ul, #numbered {
 }
 
    
-.bgg{
-    background-image: url("/ui/bgg.jpg");
-}
 
 .container{
             
           
             font-family: britannic bold;
-            background-image: url("/ui/bgg.jpg");
+            background-image:url('/ui/bgg.jpg');
             text-align:justify;
             
         }
