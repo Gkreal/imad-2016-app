@@ -27,6 +27,7 @@ p{
     margin:auto;
     display: inline-block;
     vertical-align: super;
+    outline-style:solid;
 }
 ul, #numbered {
   border: 1em solid #69b;
