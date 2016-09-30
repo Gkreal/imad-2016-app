@@ -8,12 +8,9 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-        heading:'Welcome!',
+        heading:'Hi I am Bumpy',
         content:`<p>
-                    Hi! i am Garima.
-                    I welcome you to my webapp.Being new to this field , i found this work really very exciting !
-                    Its great to learn , know more about CSS, HTML,Javascript and other basic concepts for developing an app.
-                    The follwing are the details about me . 
+                    <img src="http://www.gifs.cc/welcome/welcome-birds.gif">
                     <li>
                 
                 </p>`
