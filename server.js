@@ -8,9 +8,10 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-        heading:'Hi I am Bumpy',
+        heading:'Hi There',
         content:`<p>
-                    <img src="http://www.gifs.cc/welcome/welcome-birds.gif">
+        'This is my friend bob';
+                    <img src="http://www.gifs.net/Animation11/Creatures_and_Cartoons/Cartoon_Characters/Blue_thing.gif">
                     <li>
                 
                 </p>`
