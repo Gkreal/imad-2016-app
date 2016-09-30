@@ -8,12 +8,10 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-        heading:'Hi There',
+        heading:'Hi There!',
         content:`<p>
-        <br><br><br><br><br>
-        <img src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg">
-        <br> <br>
-        'This is my friend bob';
+        <br><br><br>
+        <img src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg"> 'This is my friend bob';
                     <img src="http://www.gifs.net/Animation11/Creatures_and_Cartoons/Cartoon_Characters/Blue_thing.gif">
                     <li>
                 
