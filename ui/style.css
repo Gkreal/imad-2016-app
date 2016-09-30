@@ -32,6 +32,9 @@ ul, #numbered {
   border: 1em solid #69b;
   padding-right:1em;
 }
+.header-shadow{
+    background-image: url('http://www.flashcoo.com/cartoon/da_3D_design/images/funny_3d_design_Charming_Prince.jpg');
+}
 .bgg{
     background-image: url(/ui/bgg.jpg);
 }
