@@ -37,7 +37,7 @@ ul, #numbered {
     background-color: red;
 }
 .bgg{
-    background-image: url(/ui/bgg.jpg);
+    background-image: url("/ui/bgg.jpg");
 }
 
 .container{
