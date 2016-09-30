@@ -28,6 +28,10 @@ p{
     display: inline-block;
     vertical-align: middle;
 }
+ul, #numbered {
+  border: 1em solid #69b;
+  padding-right:1em;
+}
 .bgg{
     background-image: url(/ui/bgg.jpg);
 }
