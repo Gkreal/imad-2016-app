@@ -53,14 +53,14 @@ var articles = {
         </head>
          <body>
             <div class ="container1">
-            <hr/> 
-            <h1>
-                ${heading}
-            </h1>
+                <hr/> 
+                <h1>
+                    ${heading}
+                </h1>
             <div>
                 ${content}
             </div>
-             <div>
+            <div>
                 <a href= '/' style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.gifs.cc/home/home-flash-animated-button.gif" /></span> </a>
                 
                  <a href= "http://gkreal.imad.hasura-app.io/article-two" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://image.fg-a.com/go-buttons/go-button-light-green.png" /> </a> 
@@ -69,8 +69,15 @@ var articles = {
             </div>
             </div>
             <div class ="container2">
-            <h2>Contents </h2>
-            <p> <ol> <li> Introduction</li><li> Chapter1 </li> <li> Chapter2></li><li> Chapter3</li></ol></p>
+                <h2>Contents </h2>
+                <p> 
+                    <ol> 
+                        <li> Introduction</li>
+                        <li> Chapter1 </li> 
+                        <li> Chapter2 </li>
+                        <li> Chapter </li>
+                    </ol>
+                </p>
         </body>
      </html>
     `;
