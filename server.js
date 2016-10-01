@@ -11,14 +11,15 @@ var articles = {
         heading:' ',
         content:`<p>
         <br>
-         <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>            <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>
+         <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>            <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>  <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>
     <br><h1>Hi There!</h1>
         <br>
        <br>
         <img src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg" style= position:centre,width:1px;> 
         <br><br><br><br>
         <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>            <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>
-        <br><br><br><h1>'This is my friend bob';</h1> <br>
+        
+        <br><br><br><h1>This is my friend Bob;</h1> <br>
         <img src="http://www.frog-clip-art.com/free_frog_clipart/clip_art_illustration_of_a_happy_frog_wearing_a_top_hat_and_bow_tie_sitting_on_a_lily_pad_0521-1102-0812-5006_SMU.jpg">
         <br>
        <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>            <img src="http://www.imgnly.com/wp-content/uploads/2014/01/Simple-divider.gif"/>
