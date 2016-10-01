@@ -55,7 +55,7 @@ var articles = {
             <div class ="container1">
              <div class ="container2">
                 <br><br>
-                <h2>Contents </h2>
+                <h2>Contents<style color:red> </h2>
                 <p> 
                     <ol> 
                         <li> Introduction</li>
