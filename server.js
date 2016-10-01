@@ -52,8 +52,7 @@ var articles = {
              <link href="/ui/style.css" rel="stylesheet" />
         </head>
          <body>
-            <div class ="container">
-           
+            <div class ="container1">
             <hr/> 
             <h1>
                 ${heading}
@@ -67,10 +66,11 @@ var articles = {
                  <a href= "http://gkreal.imad.hasura-app.io/article-two" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://image.fg-a.com/go-buttons/go-button-light-green.png" /> </a> 
                 <br>
                 <br>
-               
             </div>
-            
-             </div>
+            </div>
+            <div class ="container2">
+            <h2>Contents </h2>
+            <p> <ol> <li> Introduction</li><li> Chapter1 </li> <li> Chapter2></li><li> Chapter3</li></ol></p>
         </body>
      </html>
     `;
