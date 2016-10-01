@@ -54,8 +54,9 @@ var articles = {
          <body>
             <div class ="container1">
              <div class ="container2">
+                <br><br>
                 <h2>Contents </h2>
-                <p> <br><br>
+                <p> 
                     <ol> 
                         <li> Introduction</li>
                         <li> Chapter1 </li> 
