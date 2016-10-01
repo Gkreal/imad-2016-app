@@ -47,6 +47,8 @@ ul, #numbered {
 .container2{ 
     font-family: Georgia;
     color: green;
-    text-align:right;
+    text-align:centre;
+    width: 400px;
+    margin-width:right ;
    
 }
