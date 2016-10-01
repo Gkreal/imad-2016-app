@@ -11,7 +11,7 @@ var articles = {
         heading:' ',
         content:`<p>
         <br>
-         <img src="http://2.bp.blogspot.com/-60RU5qg7hLE/VP7kJSAyclI/AAAAAAABGQY/-5cLUAOboiE/s320/line-flowers-effect-script-html-free-clr.png"/><img src="http://2.bp.blogspot.com/-60RU5qg7hLE/VP7kJSAyclI/AAAAAAABGQY/-5cLUAOboiE/s320/line-flowers-effect-script-html-free-clr.png"/><br>
+         <img src="http://2.bp.blogspot.com/-60RU5qg7hLE/VP7kJSAyclI/AAAAAAABGQY/-5cLUAOboiE/s320/line-flowers-effect-script-html-free-clr.png"/><img src="http://2.bp.blogspot.com/-60RU5qg7hLE/VP7kJSAyclI/AAAAAAABGQY/-5cLUAOboiE/s320/line-flowers-effect-script-html-free-clr.png"/>
     <br><h1>Hi There!</h1>
         <br>
        <br>
