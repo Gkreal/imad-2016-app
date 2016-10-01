@@ -53,6 +53,16 @@ var articles = {
         </head>
          <body>
             <div class ="container1">
+             <div class ="container2">
+                <h2>Contents </h2>
+                <p> 
+                    <ol> 
+                        <li> Introduction</li>
+                        <li> Chapter1 </li> 
+                        <li> Chapter2 </li>
+                        <li> Chapter </li>
+                    </ol>
+                </p>
                 <hr/> 
                 <h1>
                     ${heading}
@@ -68,16 +78,7 @@ var articles = {
                 <br>
             </div>
             </div>
-            <div class ="container2">
-                <h2>Contents </h2>
-                <p> 
-                    <ol> 
-                        <li> Introduction</li>
-                        <li> Chapter1 </li> 
-                        <li> Chapter2 </li>
-                        <li> Chapter </li>
-                    </ol>
-                </p>
+           
         </body>
      </html>
     `;
