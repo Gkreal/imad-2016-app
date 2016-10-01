@@ -36,9 +36,14 @@ ul, #numbered {
 
    
 
-.container{
+.container1{
             font-family: britannic bold;
-          background-image:url'http://25.media.tumblr.com/tumblr_m2h8ybO3LF1rsxgl4o1_1280.jpg';
+            background-image:url('http://25.media.tumblr.com/tumblr_m2h8ybO3LF1rsxgl4o1_1280.jpg');
             text-align:justify;
             
         }
+.container2{ 
+    font-family: Georgia;
+    color: green;
+    text-align:center;
+}
