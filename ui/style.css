@@ -19,7 +19,7 @@ body {
 }
 
 h1{
-    color: black;
+    color: red;
     text-decoration: italics;
 }
 p{
@@ -43,7 +43,7 @@ ul, #numbered {
 
 .container1{
             font-family: britannic bold;
-            background-image: url("http://creativefan.com/important/cf/2012/05/abstract-background/abstract-metal-background.jpg");
+            
             text-align:center;
             width:2000px;
             }
