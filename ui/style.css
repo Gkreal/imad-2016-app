@@ -3,7 +3,7 @@ body {
     text-align:center;
     margin:auto;
     width:1050px;
-    color: pink;
+    
 
  
    }
@@ -37,7 +37,7 @@ p{
 
 .center{
     shape-outside:"circle";
-     backgound-color: pink;
+     color: pink;
 }
    
 
