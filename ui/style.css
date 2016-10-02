@@ -39,6 +39,9 @@ ul, #numbered {
   padding-right:1em;
 }
 
+.center{
+    shape-outside:"circle";
+}
    
 
 .container1{
