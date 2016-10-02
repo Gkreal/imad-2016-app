@@ -37,7 +37,7 @@ p{
 
 .center{
     shape-outside:"circle";
-     color: pink;
+     
 }
    
 
@@ -47,4 +47,5 @@ p{
             
             text-align:center;
             width:2000px;
+            color: pink;
             }
