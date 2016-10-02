@@ -42,6 +42,7 @@ p{
 }
 p3{
     background-image:url("http://www.freelargeimages.com/wp-content/uploads/2015/11/Red_Background_02.jpg");
+    margin:auto;
 }
 .img-medium {
     height: 90px;
