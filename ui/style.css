@@ -22,6 +22,8 @@ h1{
     color: Black;
     text-decoration: italics;
     background-color:#FFFACD;
+    margin-left:10px;
+    margin-right:10px;
 }
 p{
     color: White;
