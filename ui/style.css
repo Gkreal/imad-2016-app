@@ -23,8 +23,9 @@ h1{
     text-decoration: italics;
 }
 p{
-    color: black;
+    color: White;
     font-weight:bold;
+    font-size: 50%;
 }
 .img-medium {
     height: 90px;
