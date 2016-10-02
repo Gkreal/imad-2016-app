@@ -49,7 +49,7 @@ p{
     vertical-align: super;
     outline-style:solid;
 }
-.img-circle{
+.img-polygon{
     border-radius:50%;
     height:300px;
     width:300px;
