@@ -3,7 +3,7 @@ body {
     text-align:center;
     margin:auto;
     width:1050px;
-    
+    color: pink;
 
  
    }
@@ -46,7 +46,7 @@ ul, #numbered {
 
 .container1{
             font-family: britannic bold;
-            color:pink;
+           
             
             text-align:center;
             width:2000px;
