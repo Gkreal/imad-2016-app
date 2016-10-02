@@ -19,9 +19,9 @@ body {
 }
 
 h1{
-    color: Black;
+    color: White;
     text-decoration: italics;
-    background-color:#FFFACD;
+    background-color:black;
     margin-left:10px;
     margin-right:10px;
 }
