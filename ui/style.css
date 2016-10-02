@@ -35,10 +35,7 @@ p{
     outline-style:solid;
 }
 
-.center{
-    shape-outside:"circle";
-     
-}
+
 .container{
     background-color:pink;
 }
@@ -46,7 +43,7 @@ p{
 .container1{
             font-family: britannic bold;
            
-            
+            background-image:url("https://www.planwallpaper.com/static/images/background-image-1.jpg");
             text-align:center;
             width:2000px;
             color: pink;
