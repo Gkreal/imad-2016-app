@@ -21,12 +21,13 @@ body {
 h1{
     color: Black;
     text-decoration: italics;
-    background-color:light green;
+    background-color:White;
 }
 p{
     color: White;
     font-weight:bold;
     font-size: 50%;
+    background-color:White;
 }
 .img-medium {
     height: 90px;
