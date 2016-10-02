@@ -11,10 +11,11 @@ var articles = {
         heading:'WELCOME',
         content:
         `<p4>
-                <br><br><h2>Hi There!</h2><br><br>
+                <br><br>Hi There!<br>
+                I am Bumpy<br><br>
                 <img class ='img-circle' src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg" style= position:centre,width:auto;> <br><br><br><br>
                 
-                <br><br><br><h1>This is my friend Bob </h1> <br>
+                <br><br><br>This is my friend Bob <br>
                 
                 <img src="http://www.frog-clip-art.com/free_frog_clipart/clip_art_illustration_of_a_happy_frog_wearing_a_top_hat_and_bow_tie_sitting_on_a_lily_pad_0521-1102-0812-5006_SMU.jpg">
                 <br>
