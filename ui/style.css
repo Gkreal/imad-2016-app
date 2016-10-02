@@ -32,6 +32,14 @@ p2{
     font-size:30px;
     width:10px;
 }
+p4{
+    color: White;
+    font-weight:bold;
+    
+    font-size:30px;
+    width:auto;
+    
+}
 p{
     color: black;
     font-weight:bold;
