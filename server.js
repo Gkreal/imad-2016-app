@@ -9,7 +9,7 @@ var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
         heading:'WELCOME',
-        content:`<p>
+        content:`<p2>
         <br><br><h1>Hi There!</h1><br><br>
         <img class ='img-circle' src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg" style= position:centre,width:1px;> 
         <br><br><br><br>
@@ -21,7 +21,7 @@ var articles = {
        
                     
                 
-                </p>`
+                </p2>`
     },
     'article-two':{
         title:'Article two| Garima Khanna',
