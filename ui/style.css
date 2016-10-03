@@ -91,11 +91,10 @@ p5{
     outline-style:solid;
 }
 element.style {
-padding-right: 697px;
-padding-left: 697px;
-margin-left: 697px;
-border-left-width: 50px;
-border-right-width: 50px;
+width: 800px;
+height: 773px;
+margin-right: 100px;
+margin-left: 100px;
 }
 .img-polygon{
     border-radius:50%;
