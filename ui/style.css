@@ -42,7 +42,7 @@ p2{
 p4{
     color: White;
     font-weight:bold;
-    
+    background-image:url("http://static.flavors.me/dynamic_images/background/c29df5cfc2cd4580a54df243e50b0326") ;
     font-size:30px;
     width:auto;
     
@@ -57,7 +57,7 @@ p{
     
 }
 p5{
-    color: black;
+   
     font-weight:bold;
     font-size:20px;
     background-color:black;
@@ -108,5 +108,5 @@ p5{
             background-image:url("http://tse3.mm.bing.net/th?id=OIP.M89eb782099e550d50fd2c42976dbe549H0&pid=15.1");
             text-align:center;
             width:2000px;
-            color: pink;
+            
             }
