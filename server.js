@@ -12,6 +12,7 @@ var articles = {
         content:
         `<p4>
                 <div class = "container2">
+                <div class="center">
                     <br>
                     <p6><br>
                         "The key to Success is Hardwork and Determination."<br><br>
