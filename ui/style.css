@@ -16,7 +16,8 @@ body {
     margin:auto;
     width:1000px;
     position:absolute;
-    
+    background-attachment: fixed;
+    background-position: center; 
     
 }
 
