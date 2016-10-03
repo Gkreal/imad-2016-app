@@ -25,6 +25,10 @@ h1{
     margin-left:10px;
     margin-right:10px;
 }
+h4{
+    color:White;
+    font-size:40px;
+}
 p2{
     color: White;
     font-weight:bold;
@@ -46,7 +50,7 @@ p{
     font-size:20px;
     background-image:url("http://openwalls.com/image/11705/green_background_1920x1200.png");
     margin:auto;
-    width:600px;
+    width:800px;
     
 }
 .container2{
@@ -79,7 +83,7 @@ p{
 .container1{
             font-family: britannic bold;
            
-            background-image:url("http://www.freevector.com/uploads/vector/preview/13119/FreeVector-Flower-Pattern-Vector-Background.jpg");
+            background-image:url("http://bigbackground.com/wp-content/uploads/2014/06/yellow-glietter-desktop-backgrounds.png");
             text-align:center;
             width:2000px;
             color: pink;
