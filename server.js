@@ -26,15 +26,7 @@ var articles = {
                     My Details are as follows<br><br>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Academic</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a><br><br>
-                    
-                    
-                    
-                    
-                    
-                    
-           
-                    
-                
+                   
         </p4>`
                 
     },
