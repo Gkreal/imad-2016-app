@@ -108,12 +108,7 @@ p5{
     vertical-align: super;
     outline-style:solid;
 }
-element.style {
-width: 800px;
-height: 773px;
-margin-right: 100px;
-margin-left: 100px;
-}
+
 .img-polygon{
     border-radius:50%;
     height:300px;
