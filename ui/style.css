@@ -133,6 +133,8 @@ p5{
     background-image:url("http://www.zingerbugimages.com/backgrounds/wrinkled_pink_paper_background_1800x1600.jpg") ;
     width:800px;
     margin:auto;
+    background-attachment: fixed;
+    background-position: center; 
    
 }
 
