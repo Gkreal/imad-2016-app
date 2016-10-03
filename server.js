@@ -19,10 +19,10 @@ var articles = {
                      <img class ='img-me' src= "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/269396_349956955106256_1319345635_n.jpg?oh=0ccd1c75636d1cd250b49a0e374057a3&oe=5861B1A1" style= position:centre,width:300px, height:800px;> <br><br>
                     
                     
-                    Since when I started to learn, <br>I used to be creative in my thinking and ways to expression.<br>
+                    Since when I started to learn, <br>I used to be creative in my thinking and ways to expression.<br><br>
                     I have been active for participation in many contests <br>and have won many awards in the field of Designing. <br><br>
                     But<br><br>
-                    This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML, I was very much curious to know more about how things realted to Desigining happen Digitally <br> And that's how my journey Began.<br><br>
+                    This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML, <br>I was very much curious to know more about how things realted to Desigining happen Digitally <br> And that's how my journey Began.<br><br>
                     My Details are as follows
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button">Academic</a><br><br>
                     <a href="http://gkreal.imad.hasura-app.io/article-one" class="button">Personal</a><br><br>
