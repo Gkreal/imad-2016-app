@@ -81,6 +81,18 @@ p5{
     display: inline-block;
     font-size: 16px;
 }
+
+.button1{
+    background-color: purple; /* Re#FF6347d*/
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
 .container2{
    background-color:red;
     margin:auto;
