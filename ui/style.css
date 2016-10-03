@@ -110,16 +110,14 @@ margin-left: 100px;
 }
 
 .container2{
-     color: black;
+    color: black;
     font-weight:bold;
     text-align:center;
     background-image:url("http://www.zingerbugimages.com/backgrounds/wrinkled_pink_paper_background_1800x1600.jpg") ;
     font-size:30px;
     width:800px;
     margin:auto;
-    padding-left:20px;
-    padding-right:20px;
-    
+   
 }
 
 .container1{
