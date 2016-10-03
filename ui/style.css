@@ -15,6 +15,9 @@ body {
     font-weight: bold;
     margin:auto;
     width:1000px;
+    position:absolute;
+    
+    
 }
 
 h1{
