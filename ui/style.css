@@ -110,7 +110,8 @@ margin-left: 100px;
 }
 .img-me{
     height:500;
-    width:300;
+    width:320;
+    border-radius:50%;
 }
 
 .container2{
