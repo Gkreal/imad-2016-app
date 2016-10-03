@@ -60,7 +60,7 @@ var articles = {
              <link href="/ui/style.css" rel="stylesheet" />
         </head>
          <body>
-            <div class ="container1">
+            <div class ="container2">
                 <hr/> 
                 <h1>
                     ${heading}
