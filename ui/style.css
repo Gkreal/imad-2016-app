@@ -48,7 +48,7 @@ p4{
     
 }
 p{
-    color: red;
+    color: black;
     font-weight:bold;
     font-size:20px;
     background-image:url("http://www.bettycrocker.com/~/media/Images/Backgrounds/Yellow-wood_75.jpg");
@@ -76,7 +76,7 @@ p5{
     font-size: 16px;
 }
 .container2{
-   background-color:#FAEBD7;
+   background-color:red;
     margin:auto;
     width:400px;
     text-align:center;
