@@ -8,21 +8,25 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-       
+        heading:'Profile',
         content:
         `<p4>
                 <div class = "container2">
-                    <br>Hi There!<br>
-                    <br><br>
+                    <br>Hi There!<br><br>
+                    
+                    Since when I started to learn, i used to be creative in my thinking and ways to expression.<br>
+                    I have been active for participation in many contests and have won many award in the field of designing. <br><br>
+                    But<br><br>
+                    this was only in manual writing and displaying on sheets with hands.When i got explore the things related to HTML, i was very much curious to know more about how things realted to desigining happen digitally.<br><br>
+                    My Details are as follows
+                    <a href="http://gkreal.imad.hasura-app.io/article-two" class="button">Academic</a><br><br>
+                    <a href="http://gkreal.imad.hasura-app.io/article-one" class="button">Personal</a><br><br>
                     
                     
-                    <img class ='img-circle' src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg" style= position:centre,width:auto; background-color:#FAEBD7> <br><br>
-                    
-                    <br>This is my friend Bob <br>
                     
                     
-                    <img src="http://www.frog-clip-art.com/free_frog_clipart/clip_art_illustration_of_a_happy_frog_wearing_a_top_hat_and_bow_tie_sitting_on_a_lily_pad_0521-1102-0812-5006_SMU.jpg" background-color:#FAEBD7>
-                    <br>
+                    
+                    
            
                     
                 
