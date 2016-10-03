@@ -108,6 +108,10 @@ margin-left: 100px;
     text-align: left;
     border-image:100px solid;
 }
+img-me{
+    height:500;
+    width:300;
+}
 
 .container2{
     color: black;
