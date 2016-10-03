@@ -11,7 +11,7 @@ var articles = {
         heading:'Profile',
         content:
         `<p4>
-                <div class = "container1">
+                <div class = "container2">
                 <div class="center">
                     <br>
                     <p6><br>
