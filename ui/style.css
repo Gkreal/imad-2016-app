@@ -45,7 +45,8 @@ p4{
     font-weight:bold;
     background-image:url("http://static.flavors.me/dynamic_images/background/c29df5cfc2cd4580a54df243e50b0326") ;
     font-size:18px;
-    width:auto;
+    width:100;
+    height:100;
      font-family:georgia;
     
 }
