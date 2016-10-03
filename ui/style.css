@@ -56,7 +56,16 @@ p{
     width:800px;
     
 }
-.button {
+p5{
+    color: black;
+    font-weight:bold;
+    font-size:20px;
+    background-color:black;
+    margin:auto;
+    width:800px;
+}
+
+ .button{
     background-color: #FF6347; /* Re#FF6347d*/
     border: solid;
     color: white;
