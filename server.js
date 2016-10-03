@@ -13,6 +13,9 @@ var articles = {
         `<p4>
                 <div class = "container2">
                     <br>Hi There!<br><br>
+                    <p6>
+                        The key to Sucess is Hardwork and determination.
+                    </p6>
                     
                     Since when I started to learn, i used to be creative in my thinking and ways to expression.<br>
                     I have been active for participation in many contests and have won many award in the field of designing. <br><br>
