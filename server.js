@@ -8,12 +8,12 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-        heading:'WELCOME',
+       
         content:
         `<p4>
                 <div class = "container2">
                     <br>Hi There!<br>
-                    I am Bumpy<br><br>
+                    <br><br>
                     
                     
                     <img class ='img-circle' src= "http://www.frog-clip-art.com/free_frog_clipart/cartoon_frog_waving_0521-1101-1912-4822_SMU.jpg" style= position:centre,width:auto; background-color:#FAEBD7> <br><br>
