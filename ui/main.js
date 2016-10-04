@@ -25,3 +25,7 @@ button.onclick = function(){
     var span = document.getElementById('count');
     span.innerHTML = counter.toString();
 };
+
+//Make a request
+request.openn('GET', 'http://gkreal.imad.hasura-app.io/counter',true);
+request.send(null);
