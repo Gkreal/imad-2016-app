@@ -22,9 +22,9 @@ body {
 }
 
 h1{
-    color: #FFC0CB; /*pink*/
+    color: #C71585; /*purple*/
     text-decoration: italics;
-    background-color:#C71585; /*purple*/
+    background-color:#FFC0CB; /*pink*/ 
     margin:auto;
     width:auto;
 }
