@@ -96,6 +96,16 @@ app.get('/counter',function(req,res){
     counter= counter + 1;
     res.send(counter.toString());
 });
+
+var names= [];
+app.get('/submit-name', function ( req,res){ //URL:/submit-name?name=xxxx
+    //Get the name from the request
+    var name= req.query.name;
+    names.push(name);
+    //JSON: Javascript  Object Notation
+    res.send(JSON.stringify(names)); //TODO
+});
+
 app.get('/:articleName',function( req, res){
     //articlename= Article-one
         var articleName = req.params.articleName;
@@ -118,14 +128,6 @@ app.get('ui/bgg.jpg', function (req,res) {
     res.sendFile(path.join(__dirname,'ui','bgg.jpg'));
 });
 
-var names= [];
-app.get('/submit-name', function ( req,res){ //URL:/submit-name?name=xxxx
-    //Get the name from the request
-    var name= req.query.name;
-    names.push(name);
-    //JSON: Javascript  Object Notation
-    res.send(JSON.stringify(names)); //TODO
-});
 
 
 
