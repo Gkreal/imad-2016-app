@@ -88,6 +88,16 @@ p5{
     width:800px;
 }
 
+.submit_btn{
+    background-color: red; /* Re#FF6347d*/
+    border: solid;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
  .button{
     background-color: #FF6347; /* Re#FF6347d*/
     border: solid;
