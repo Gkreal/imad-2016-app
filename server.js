@@ -29,7 +29,7 @@ var articles = {
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Projects</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Achievements</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a>
-                   
+                   <br><br><br><br>
         </p4>`
                 
     },
