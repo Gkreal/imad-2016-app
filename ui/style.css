@@ -22,19 +22,20 @@ body {
 }
 
 h1{
-    color:black;
+    color:white;
     text-decoration: italics;
     background-color: #C71585; /*purple*/
     margin:auto;
     width:auto;
-    font-family:lucida handwriting;
+   
 }
 h4{
-    color:White;
+    color:black;
     font-size:40px;
     background-color:yellow;
     margin:auto;
     width:800px;
+     font-family:lucida handwriting;
 }
 p2{
     color: White;
