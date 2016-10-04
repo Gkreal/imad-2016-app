@@ -64,9 +64,9 @@ var articles = {
          <body>
             <div class ="container1">
                 <hr/> 
-                <h4>
+                <h1>
                     ${heading}
-                </h4>
+                </h1>
             <div>
                 ${content}
             </div>
