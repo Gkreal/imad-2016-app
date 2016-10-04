@@ -24,11 +24,11 @@ var articles = {
                     I have been participating in many contests <br>and have won many awards in the field of Designing. <br><br>
                     But<br><br>
                     This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML,<br> <br>I was very much curious to know more <br> about how things realted to Designing happen Digitally <br> And that's how my journey Began.<br><br>
-                    My Details are as follows<br><br>
+                    My Details are as follows<br><br><br>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Academic</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Projects</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Achievements</a>
-                    <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a><br><br>
+                    <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a>
                    
         </p4>`
                 
