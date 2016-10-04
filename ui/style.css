@@ -42,6 +42,15 @@ p2{
     font-size:30px;
     width:10px;
 }
+p3{
+    color: black;
+    font-weight:bold;
+    font-size:20px;
+    background-image:url("http://www.bettycrocker.com/~/media/Images/Backgrounds/Yellow-wood_75.jpg");
+    margin-left:70px;
+    
+    width:800px;
+}
 p4{
     color: White;
     font-weight:bold;
