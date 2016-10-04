@@ -27,5 +27,5 @@ button.onclick = function(){
 };
 
 //Make a request
-request.openn('GET', 'http://gkreal.imad.hasura-app.io/counter',true);
+request.open('GET', 'http://gkreal.imad.hasura-app.io/counter',true);
 request.send(null);
