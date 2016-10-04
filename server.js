@@ -21,7 +21,7 @@ var articles = {
                     
                     
                     Since when I started to learn, <br>I used to be creative in my thinking and ways of expression.<br><br>
-                    I have been articipating in many contests <br>and have won many awards in the field of Designing. <br><br>
+                    I have been participating in many contests <br>and have won many awards in the field of Designing. <br><br>
                     But<br><br>
                     This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML,<br> <br>I was very much curious to know more <br> about how things realted to Designing happen Digitally <br> And that's how my journey Began.<br><br>
                     My Details are as follows<br><br>
