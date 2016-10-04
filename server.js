@@ -118,7 +118,7 @@ app.get('ui/bgg.jpg', function (req,res) {
     res.sendFile(path.join(__dirname,'ui','bgg.jpg'));
 });
 
-var names[];
+var names= [];
 aap.get('/submit-name/:name',function(req,res){
     //Get the name from the request
     var name = req.params.name;
