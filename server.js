@@ -119,6 +119,11 @@ app.get('ui/bgg.jpg', function (req,res) {
 });
 
 var names[];
+aap.get('/submit-name/:name',function(req,res){
+    //Get the name from the request
+    var name = req.params.name;
+    
+    names.push(name);
 //JSON:Javascript Object Notation
 res.send(JASON.stringify(names));
 });
