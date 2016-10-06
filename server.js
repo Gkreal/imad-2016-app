@@ -37,7 +37,7 @@ var articles = {
         title:'Article two| Garima Khanna',
         heading:'Academic Details',
         content:`<p4>
-                    <div class = "container2">
+                    <div class = "container">
                     <div class = "center">
                        <br> Career Vision <br>
                     
