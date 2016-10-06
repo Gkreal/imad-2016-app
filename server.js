@@ -46,6 +46,13 @@ var articles = {
         content:`<p>
                     Lets Go!
                 </p>`
+    },
+    'article-four':{
+        title: 'Article four| Garima Khanna',
+        heading:'Welcome',
+        content:`<p>
+                    Lets Go!
+                </p>`
     }
 };
   function createTemplate  (data){
