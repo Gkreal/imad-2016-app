@@ -35,9 +35,38 @@ var articles = {
     },
     'article-two':{
         title:'Article two| Garima Khanna',
-        heading:'Welcome!',
+        heading:'Academic Details',
         content:`<p>
-                    Lets Go!
+                    <h1>
+                        Career Vision
+                    </h1>
+                    To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field and realize my potential where I get the opportunity for continuous learning and exploring new technologies.
+                        
+                        <table style="width:100%">
+                          <tr>
+                            <th>Qualification</th>
+                            <th>Institute</th> 
+                         </tr>
+                         
+                          <tr>
+                            <td>Masters in Technology ,2015- 2017
+                                Branch -  Mobile and Pervasive Computing
+                            </td>
+                            <td>Bachelor of Technology , 2011-2015
+                                   Electronics and Communication Engineering.
+                            </td>
+                            <td>CBSE (High School)   12th  ,  2010</td>
+                          </tr>
+                          
+                          <tr>
+                            <td>Indira Gandhi Delhi Technical University for Women, Kashmere Gate , Delhi </td>
+                            <td>Guru  Premsukh  Memorial College Of Engineering, Budhpur GT Karnal Road, Delhi.
+                                GGSIPU  (76.8%)
+                            </td> 
+                            <td>Vikas Bharati Public School, Rohini Sector-24 , Delhi-85 </td>
+                          </tr>
+                        </table>
+
                 </p>`
     },
     'article-three':{
