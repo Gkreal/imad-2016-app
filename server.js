@@ -48,9 +48,9 @@ var articles = {
                             <th>Qualification</th>
                             
                          </tr>
-                         <tr>
+                         <td>
                             <th>Institute</th> 
-                         </tr>
+                         </td>
                          
                           <tr>
                             <td>Masters in Technology ,2015- 2017
