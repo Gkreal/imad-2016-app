@@ -183,8 +183,11 @@ width: 1px;
             width:1000px;
             background:repeat;
             display:  table;
+            margin:0 auto;
 }
-            
+tr,td{
+    
+}
 
            
             
