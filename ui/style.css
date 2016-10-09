@@ -187,3 +187,12 @@ width: 1px;
             background-color:#eee;
             border:1px solid  #666666;
             }
+tr, td {
+
+border-width: 1px;
+
+border-style: solid;
+
+border-color: #000000;
+
+}
