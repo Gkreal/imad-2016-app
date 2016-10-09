@@ -42,8 +42,8 @@ var articles = {
                        <br> Career Vision <br>
                     
                         <br><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.<br><br><br>
-                        
-                        <table style="width:50%, align:centre">
+                        <div class container4"
+                        <table style="width:50%">
                           <tr>
                             <th>Qualification</th>
                             <th>Institute</th> 
