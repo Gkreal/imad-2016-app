@@ -185,10 +185,10 @@ width: 1px;
             display:  table;
             margin:0 auto;
 }
-tr,td{
+table,tr,td{
     display: table;
     border: black;
-    table-border:1px;
+    table-border:1px solid-black;
 }
 
            
