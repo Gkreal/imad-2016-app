@@ -59,7 +59,7 @@ var articles = {
                           </tr>
                           
                           <tr>
-                            <td>Bachelor of Technology , 2011-2015
+                            <td><br>Bachelor of Technology , 2011-2015
                                    Electronics and Communication Engineering. </td>
                             <td>Guru  Premsukh  Memorial College Of Engineering, Budhpur GT Karnal Road, Delhi.
                                 GGSIPU 
