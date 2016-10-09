@@ -194,5 +194,10 @@ vertical-align:top;
 border-style: solid;
 text-align:centre;
 border-color: #000000;
+position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
 
 }
