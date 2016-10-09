@@ -181,5 +181,9 @@ width: 1px;
             font-family: britannic bold;
             text-align:center;
             width:2000px;
-            display:table;
+            
+            display:  table;
+            width:auto;
+            background-color:#eee;
+            border:1px solid  #666666;
             }
