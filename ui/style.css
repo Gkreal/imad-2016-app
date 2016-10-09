@@ -179,5 +179,10 @@ width: 1px;
       text-align:center;
       margin-left:50;
       align:centre;
+      position: absolute;
+        top: 20px;
+        right: 50;
+        width: 200px;
+        height: 100px;
     
 }
