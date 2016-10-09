@@ -187,8 +187,8 @@ width: 1px;
 }
 table,tr,td{
     display: table;
-    border: black;
-    table-border:1px solid-black;
+    
+    border:1px solid-black;
 }
 
            
