@@ -53,14 +53,14 @@ var articles = {
                             <td>Masters in Technology ,2015- 2017
                                 Branch -  Mobile and Pervasive Computing
                             </td>
-                            <td>Bachelor of Technology , 2011-2015
-                                   Electronics and Communication Engineering.
+                            <td>Indira Gandhi Delhi Technical University for Women, Kashmere Gate , Delhi
                             </td>
                             <td>CBSE (High School)   12th  ,  2010</td>
                           </tr>
                           
                           <tr>
-                            <td>Indira Gandhi Delhi Technical University for Women, Kashmere Gate , Delhi </td>
+                            <td>Bachelor of Technology , 2011-2015
+                                   Electronics and Communication Engineering. </td>
                             <td>Guru  Premsukh  Memorial College Of Engineering, Budhpur GT Karnal Road, Delhi.
                                 GGSIPU  (76.8%)
                             </td> 
