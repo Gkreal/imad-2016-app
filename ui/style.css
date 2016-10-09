@@ -186,14 +186,15 @@ width: 1px;
 }
             
 tr, td {
-padding:10px;
+
 border-width: 1px;
 vertical-align:top;
 border-style: solid;
 text-align:centre;
 border-color: #000000;
 position: absolute;
-       
+        top: 50%;
+        left: 50%;
         
         
 
