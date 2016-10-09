@@ -46,6 +46,9 @@ var articles = {
                         <table style="width:70%">
                           <tr>
                             <th>Qualification</th>
+                            
+                         </tr>
+                         <tr>
                             <th>Institute</th> 
                          </tr>
                          
