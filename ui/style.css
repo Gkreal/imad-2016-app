@@ -178,10 +178,6 @@ width: 1px;
       font-weight:bold;
       text-align:center;
       margin-left:50;
-      position:relative;
-      padding-left:50px;
-      vertical-align:middle;
-      
-  
-   
+      align:centre;
+    
 }
