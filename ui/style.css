@@ -183,11 +183,9 @@ width: 1px;
             width:1000px;
             
             display:  table;
-           
+}
             
-           
-            }
-tr, td {
+.tr, .td {
 padding:10px;
 border-width: 1px;
 vertical-align:top;
@@ -202,3 +200,6 @@ position: absolute;
         
 
 }
+            
+           
+            }
