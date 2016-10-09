@@ -62,7 +62,7 @@ var articles = {
                             <td>Bachelor of Technology , 2011-2015
                                    Electronics and Communication Engineering. </td>
                             <td>Guru  Premsukh  Memorial College Of Engineering, Budhpur GT Karnal Road, Delhi.
-                                GGSIPU  (76.8%)
+                                GGSIPU 
                             </td> 
                             <td>Vikas Bharati Public School, Rohini Sector-24 , Delhi-85 </td>
                           </tr>
