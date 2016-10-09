@@ -187,7 +187,11 @@ width: 1px;
 }
 tr,td{
     display: table;
-    
+     border-width: 1px;
+
+border-style: solid;
+
+border-color: #000000;
     border:1px solid-black;
 }
 
