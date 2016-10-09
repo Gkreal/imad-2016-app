@@ -185,7 +185,7 @@ width: 1px;
             display:  table;
             margin:0 auto;
 }
-tr,td{
+th,tr,td{
     display: table;
      border-width: 1px;
 
