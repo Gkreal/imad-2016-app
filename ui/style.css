@@ -188,6 +188,7 @@ width: 1px;
 tr,td{
     display: table;
     border: black;
+    table-border:1px;
 }
 
            
