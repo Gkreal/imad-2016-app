@@ -181,7 +181,7 @@ width: 1px;
             font-family: britannic bold;
             text-align:centre;
             width:1000px;
-            
+             position: absolute;
             display:  table;
 }
             
