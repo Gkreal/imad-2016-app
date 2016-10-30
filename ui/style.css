@@ -29,6 +29,13 @@ h1{
     width:auto;
    
 }
+h2{
+    color:white;
+    text-decoration: italics;
+    background-color: #C71585; /*purple*/
+    margin:auto;
+    width:800px;
+}
 h4{
     color:black;
     font-size:40px;
