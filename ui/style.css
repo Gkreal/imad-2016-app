@@ -51,15 +51,7 @@ p2{
     font-size:30px;
     width:10px;
 }
-.container3{
-    color: black;
-    font-weight:bold;
-    font-size:20px;
-    background-image:url("http://tse1.mm.bing.net/th?id=OIP.M204d27685dc226e8272a8e68c0be1a50o0&pid=15.1") ;
-    margin-left:70px;
-    
-    width:800px;
-}
+
 
 p4{
     color: White;
@@ -158,6 +150,25 @@ p5{
     text-align:center;
     background-image:url("http://www.zingerbugimages.com/backgrounds/wrinkled_pink_paper_background_1800x1600.jpg") ;
     background-attachment:fixed;
+}
+
+.container3{
+    color: black;
+    font-weight:bold;
+    font-size:20px;
+    
+    margin-left:70px;
+    
+    width:800px;
+}
+.container6{
+    color: pink;
+    font-weight:bold;
+    font-size:20px;
+    background-image:url("http://tse1.mm.bing.net/th?id=OIP.M204d27685dc226e8272a8e68c0be1a50o0&pid=15.1") ;
+    margin-left:70px;
+    
+    width:800px;
 }
 
 element.style {
