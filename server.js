@@ -77,9 +77,9 @@ var articles = {
         title:'Article three| Garima Khanna',
         heading:'Projects',
         content:`<p>
-                    <div class = "container2">
+                    <div class = "container6">
                     <div class = "center">
-                    <br><br><br>
+                    <br><br><br><br>
                     <div class = "container3"><br>
                     <h2> Line Follower Robot </h2><br>
                     
