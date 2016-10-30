@@ -26,7 +26,7 @@ var articles = {
                     This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML,<br> <br>I was very much curious to know more <br> about how things realted to Designing happen Digitally <br> And that's how my journey Began.<br><br>
                     My Details are as follows<br><br><br>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Academic</a>
-                    <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Projects</a>
+                    <a href="http://gkreal.imad.hasura-app.io/article-three" class="button1">Projects</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Achievements</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a>
                    <br><br><br><br>
@@ -75,9 +75,18 @@ var articles = {
     },
     'article-three':{
         title:'Article three| Garima Khanna',
-        heading:'Welcome!',
+        heading:'Projects',
         content:`<p>
-                    Lets Go!
+                    <div class = "container2">
+                    <div class = "center">
+                    <h1> Line Follower Robot </h1><br>
+                    Constructed an automatic robot that is capable of traversing on black line with white track using ATMEL 89C51.<br><br>
+                    <h1> Gesture Controlled robot </h1><br>
+                    Constructed a gesture controlled robot which can be controlled by hand movements with the help of a control kit that can be worn on hand like a glove using ATMEL 89C51.<br><br>
+                    
+
+
+                    
                 </p>`
     },
     'article-four':{
