@@ -79,7 +79,7 @@ var articles = {
         content:`<p>
                     <div class = "container2">
                     <div class = "center">
-                    <h1> Line Follower Robot </h1><br>
+                    <br><br><h2> Line Follower Robot </h2><br>
                     Constructed an automatic robot that is capable of traversing on black line with white track using ATMEL 89C51.<br><br>
                     <h1> Gesture Controlled robot </h1><br>
                     Constructed a gesture controlled robot which can be controlled by hand movements with the help of a control kit that can be worn on hand like a glove using ATMEL 89C51.<br><br>
