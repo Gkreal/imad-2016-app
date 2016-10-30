@@ -79,7 +79,7 @@ var articles = {
         content:`<p>
                     <div class = "container2">
                     <div class = "center">
-                    
+                    <br><br><br>
                     <div class = "container3"><br>
                     <br><br><h2> Line Follower Robot </h2><br>
                     
