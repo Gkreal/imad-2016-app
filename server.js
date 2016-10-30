@@ -81,7 +81,7 @@ var articles = {
                     <div class = "center">
                     <br><br><br>
                     <div class = "container3"><br>
-                    <br><br><h2> Line Follower Robot </h2><br>
+                    <h2> Line Follower Robot </h2><br>
                     
                     Constructed an automatic robot that is capable of traversing on black line with white track using ATMEL 89C51.<br><br>
                     
