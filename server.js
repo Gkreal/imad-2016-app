@@ -25,10 +25,10 @@ var articles = {
                     But<br><br>
                     This was only by writing and drawing on sheets with hands.<br>When i got to explore the things related to HTML,<br> <br>I was very much curious to know more <br> about how things realted to Designing happen Digitally <br> And that's how my journey Began.<br><br>
                     My Details are as follows<br><br><br>
-                    <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Academic</a>
+               
                     <a href="http://gkreal.imad.hasura-app.io/article-three" class="button1">Projects</a>
-                    <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Achievements</a>
-                    <a href="http://gkreal.imad.hasura-app.io/article-one" class="button1">Personal</a>
+                    <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Traning</a>
+                   
                    <br><br><br><br>
         </p4>`
                 
@@ -36,42 +36,36 @@ var articles = {
     'article-two':{
         title:'Article two| Garima Khanna',
         heading:'Academic Details',
-        content:`<p4>
+        content:`<p7>
                     <div class = "container2">
                     <div class = "center">
                        <br> Career Vision <br>
                     
                         <br><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.<br><br><br>
-                        <div class= "container4">
-                        <table style="width:70%">
-                          <tr>
-                            <th>Qualification</th>
-                            
-                         </tr>
-                         <td>
-                            <th>Institute</th> 
-                         </td>
-                         
-                          <tr>
-                            <td>Masters in Technology ,2015- 2017
-                                Branch -  Mobile and Pervasive Computing
-                            </td>
-                            <td>Indira Gandhi Delhi Technical University for Women, Kashmere Gate , Delhi
-                            </td>
-                            <td>CBSE (High School)   12th  ,  2010</td>
-                          </tr>
-                          
-                          <tr>
-                            <td>Bachelor of Technology , 2011-2015
-                                   Electronics and Communication Engineering. </td>
-                            <td>Guru  Premsukh  Memorial College Of Engineering, Budhpur GT Karnal Road, Delhi.
-                                GGSIPU 
-                            </td> 
-                            <td>Vikas Bharati Public School, Rohini Sector-24 , Delhi-85 </td>
-                          </tr>
-                        </table>
+                        <div class= "container6">
+                        <div class ="center">
+                    <br><br><br><br>
+                    
+                    <h2> Summer Training at NIIT Technologies , Delhi</h2><br>
+                    
+                    Undergone training on C, C++ and DATA STRUCTURE.<br><br>
+                    
+                    <h2> Delhi Metro Rail Corporation, Barakhamba Road , Delhi  </h2><br>
+                   Undergone training on signaling and telecommunications dept. of Delhi Metro.<br><br>
+                    
+                    <h2>Cetpa Infotech Pvt Ltd. Noida , Delhi</h2><br>
+                     Undergone training on Embedded system 89C51 and worked on many projects.<br><br>
+                      
+                    <h2>HPT, Doordarshan, Prasar Bharati, Pitampura , Delhi</h2><br>
+                        Undergone summer training on Satellite Communication at HPT T.V Tower.<br><br>
+                        
+                   
 
-                </p4>`
+
+                    
+               
+
+                </p7>`
     },
     'article-three':{
         title:'Article three| Garima Khanna',
