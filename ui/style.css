@@ -86,7 +86,15 @@ p5{
     color:white;
     width:800px;
 }
+p6{
+    color: white;
+    font-weight:bold;
+    font-size:20px;
+   
+    margin:auto;
+    width:800px;
 
+}
 .submit_btn{
     background-color: red; /* Re#FF6347d*/
     border: solid;
