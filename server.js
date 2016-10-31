@@ -77,10 +77,10 @@ var articles = {
                     
                     <h2> Line Follower Robot </h2><br>
                     
-                    Constructed an automatic robot that is capable of traversing on black line with white track using ATMEL 89C51.<br><br>
+                        <p7>Constructed an automatic robot that is capable of traversing on black line with white track using ATMEL 89C51.</p7><br><br>
                     
                     <h2> Gesture Controlled robot </h2><br>
-                    Constructed a gesture controlled robot which can be controlled by hand movements <br> with the help of a control kit that can be worn on hand like a glove using ATMEL 89C51.<br><br>
+                        <p7>Constructed a gesture controlled robot which can be controlled by hand movements <br> with the help of a control kit that can be worn on hand like a glove using ATMEL 89C51.</p7><br><br>
                     
                     <h2>Rash Driving Warning System For Highway Police</h2><br>
                       Constructed a system with help of 555 timer & multi-vibrator to detect the high speed of vehicles on highway. Basically a speed limit detector  for traffic police to catch high speed vehicles with a fixed specified speed limit set by the police rules.<br><br>
