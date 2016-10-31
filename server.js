@@ -48,16 +48,16 @@ var articles = {
                     
                     <h2> Summer Training at NIIT Technologies , Delhi</h2><br>
                     
-                    Undergone training on C, C++ and DATA STRUCTURE.<br><br>
+                        <p7>Undergone training on C, C++ and DATA STRUCTURE.</p7><br><br>
                     
                     <h2> Delhi Metro Rail Corporation, Barakhamba Road , Delhi  </h2><br>
-                   Undergone training on signaling and telecommunications dept. of Delhi Metro.<br><br>
+                        <p7> Undergone training on signaling and telecommunications dept. of Delhi Metro.</p7><br><br>
                     
                     <h2>Cetpa Infotech Pvt Ltd. Noida , Delhi</h2><br>
-                     Undergone training on Embedded system 89C51 and worked on many projects.<br><br>
+                        <p7>Undergone training on Embedded system 89C51 and worked on many projects.</p7><br><br>
                       
                     <h2>HPT, Doordarshan, Prasar Bharati, Pitampura , Delhi</h2><br>
-                        Undergone summer training on Satellite Communication at HPT T.V Tower.<br><br>
+                        <p7>Undergone summer training on Satellite Communication at HPT T.V Tower.</p7><br><br>
                         
                    
 
