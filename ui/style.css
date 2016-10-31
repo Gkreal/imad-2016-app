@@ -25,7 +25,7 @@ h1{
     color:white;
     text-decoration: italics;
     background-color: #C71585; /*purple*/
-    margin:auto;
+    margin-left:200px;
     width:auto;
    
 }
@@ -91,7 +91,7 @@ p7{
     font-weight:bold;
     font-size:20px;
     font-color: white;
-    margin:auto;
+    margin-left:200px;
     width:800px;
 
 }
@@ -209,7 +209,7 @@ width: 1px;
     font-weight:bold;
     font-size:20px;
     background-image:url("http://tse1.mm.bing.net/th?id=OIP.M204d27685dc226e8272a8e68c0be1a50o0&pid=15.1") ;
-    margin-left:90px;
+    margin-left:200px;
     margin-top:100px;
     
     width:1000px;
