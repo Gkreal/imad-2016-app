@@ -76,7 +76,7 @@ var articles = {
     'article-three':{
         title:'Article three| Garima Khanna',
         heading:'Projects',
-        content:`<p>
+        content:`<p6>
                     <div class = "container6">
                     <div class ="center">
                     <br><br><br><br>
@@ -103,7 +103,7 @@ var articles = {
 
                     
                     
-                </p>`
+                </p6>`
     },
     'article-four':{
         title: 'Article four| Garima Khanna',
