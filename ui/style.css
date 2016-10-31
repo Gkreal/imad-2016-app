@@ -90,7 +90,7 @@ p7{
     color: white;
     font-weight:bold;
     font-size:20px;
-   
+    font-color: white;
     margin:auto;
     width:800px;
 
@@ -205,7 +205,7 @@ width: 1px;
     width:800px;
 }
 .container6{
-    color: white;
+    
     font-weight:bold;
     font-size:20px;
     background-image:url("http://tse1.mm.bing.net/th?id=OIP.M204d27685dc226e8272a8e68c0be1a50o0&pid=15.1") ;
