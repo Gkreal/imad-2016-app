@@ -90,10 +90,11 @@ p7{
     color: white;
     font-weight:bold;
     font-size:20px;
-    text-align:center;
+    
     margin-left:50;
     margin-right:50;
     width:600px;
+    text-align: justify;
 
 }
 .submit_btn{
