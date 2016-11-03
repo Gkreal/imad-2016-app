@@ -36,7 +36,8 @@ var articles = {
     'article-two':{
         title:'Article two| Garima Khanna',
         heading:'Academic Details',
-        content:`
+        content:`   
+                     
                     <div class = "container2">
                     <div class = "center">
                        <br> Career Vision <br>
@@ -70,7 +71,8 @@ var articles = {
     'article-three':{
         title:'Article three| Garima Khanna',
         heading:' ',
-        content:`
+        content:`   
+                    <img class ='img-me' src= "http://www.zingerbugimages.com/backgrounds/wrinkled_pink_paper_background_1800x1600.jpg" >
                     <div class = "container6">
                     <div class ="center">
                     <br><br><br><br>
