@@ -72,7 +72,7 @@ var articles = {
         title:'Article three| Garima Khanna',
         heading:' ',
         content:`   
-                    <img class ='img-me' src= "http://www.zingerbugimages.com/backgrounds/wrinkled_pink_paper_background_1800x1600.jpg" >
+                   
                     <div class = "container6">
                     <div class ="center">
                     <br><br><br><br>
