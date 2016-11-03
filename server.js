@@ -83,7 +83,7 @@ var articles = {
                         <p7>Constructed a gesture controlled robot which can be controlled by hand movements <br> with the help of a control kit that can be worn on hand like a glove using ATMEL 89C51.</p7><br><br>
                     
                     <h2>Rash Driving Warning System For Highway Police</h2><br>
-                        <p7>Constructed a system with help of 555 timer & multi-vibrator to detect the high speed of vehicles on highway. Basically a speed limit detector  for traffic police to catch high speed vehicles with a fixed specified speed limit set by the police rules.</p7><br><br>
+                        <p7>Constructed a system with help of 555 timer & multi-vibrator to detect the high speed <br>of vehicles on highway. Basically a speed limit detector  for traffic police to catch high speed vehicles with a<br> fixed specified speed limit set by the police rules.</p7><br><br>
                       
                     <h2>Line follower Hovercraft  </h2><br>
                         <p7>A hovercraft, basically an air cushion vehicle used  for rough terrains be it in water or land. Working with the help of light detectors which follow white line on a black surface with multiple air propellers using embedded system Microcontroller 89C51.</p7><br><br>
