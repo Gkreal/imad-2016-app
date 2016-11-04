@@ -42,10 +42,10 @@ var articles = {
                     <div class = "center">
                        <h2> Career Vision </h2>
                     
-                        <br><p7><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.</p7><br><br>
+                        <br><p7><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.</p7><br>
                        
                         <div class ="center">
-                    <br><br><br><br>
+                    <br>
                     
                     <h2> Summer Training at NIIT Technologies , Delhi</h2><br>
                     
