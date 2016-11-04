@@ -38,12 +38,12 @@ var articles = {
         heading:'Academic Details',
         content:`   
                      
-                    <div class = "container2">
+                     <div class= "container6">
                     <div class = "center">
                        <br> Career Vision <br>
                     
                         <br><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.<br><br><br>
-                        <div class= "container6">
+                       
                         <div class ="center">
                     <br><br><br><br>
                     
