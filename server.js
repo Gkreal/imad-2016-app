@@ -8,7 +8,7 @@ app.use(morgan('combined'));
 var articles = {
     'article-one': {
         title:'Article one| Garima Khanna',
-        heading:'Profile'  ,
+        heading:' '  ,
         content:
         `<p4>
                 <div class = "container2">
@@ -35,7 +35,7 @@ var articles = {
     },
     'article-two':{
         title:'Article two| Garima Khanna',
-        heading:'Academic Details',
+        heading:' ',
         content:`   
                      
                      <div class= "container6">
