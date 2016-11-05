@@ -104,7 +104,7 @@ var articles = {
     'article-four':{
         title: 'Article four| Garima Khanna',
         heading:' ',
-        content:`<div class= "container6">
+        content:`<div class= "container7">
                     <div class = "center">
                        <h2> Calligraphy competition </h2>
                     
