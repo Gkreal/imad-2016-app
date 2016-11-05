@@ -225,6 +225,17 @@ width: 1px;
     padding:50px;
     width:1010px;
 }
+
+.container7{
+    
+    font-weight:bold;
+    font-size:20px;
+    background-image:url("https://pixabay.com/static/uploads/photo/2013/09/12/20/14/hair-181745_960_720.jpg") ;
+    margin-left:250px;
+    margin-top:100px;
+    padding:50px;
+    width:1010px;
+}
 th,tr,td{
     display: table;
      border-width: 1px;
