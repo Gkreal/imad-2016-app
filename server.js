@@ -28,7 +28,7 @@ var articles = {
                
                     <a href="http://gkreal.imad.hasura-app.io/article-three" class="button1">Projects</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Traning</a>
-                    <a href="http://gkreal.imad.hasura-app.io/article-four" class=button1">Achievements & Participation</a>
+                    <a href="http://gkreal.imad.hasura-app.io/article-four" class="button1">Achievements & Participation</a>
                    <br><br><br><br>
         </p4>`
                 
