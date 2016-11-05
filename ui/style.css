@@ -37,12 +37,13 @@ h2{
     width:800px;
 }
   
-  h0{
+h0{
   color:white;
     text-decoration: italics;
-    background-color: blue; /*purple*/
+    background-color: dark-blue; /*purple*/
     margin:auto;
     width:800px;
+    font-size:20px;
 }
   
   
