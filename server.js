@@ -143,13 +143,13 @@ var articles = {
                         <p8>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p8><br><br>
                         
                           
-                    <h0>Basket Ball Competition</h0>
+                    <h0>Basket Ball Competition</h0><br>
                         <p8>Secured ' Runner up 'position in Basket Ball competition Sports meet, 2007. </p8><br><br>
                         
-                        <h0>Research Showcase </h0>
+                        <h0>Research Showcase </h0><br>
                         <p8>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p8><br><br>
                         
-                        <h0> Sucessfully secured internship </h0>
+                        <h0> Sucessfully secured internship </h0><br>
                         <p8> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264" </p8><br><br>
                         
                         
