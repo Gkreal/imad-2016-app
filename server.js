@@ -30,7 +30,23 @@ var articles = {
                     <a href="http://gkreal.imad.hasura-app.io/article-two" class="button1">Traning</a>
                     <a href="http://gkreal.imad.hasura-app.io/article-four" class="button1">Achievements & Participation</a>
                    <br><br><br><br>
-        </p4>`
+        </p4>
+        
+        <p5> 
+                <br><br><br><br><a href= "https://www.facebook.com/ginni1806" style="bottom: -5px; padding-left: 3px; image-align: right;  width:1px; font size:x-small; height:100px; position: relative;"><img src="http://icons.iconarchive.com/icons/danleech/simple/64/facebook-icon.png" /> </a> 
+                
+                 <a href= "https://twitter.com/Gkreal86" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://cincinnaticaferacer.com/wp-content/uploads/2011/12/Twitter-logo-button.png" /> </a>
+                 
+                 
+                 <a href= "https://in.linkedin.com/in/garima-khanna-6aa80768" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="http://www.qrcode-monkey.com/gallery/linkedin-small.png" /> </a>
+                 
+                 
+                
+                
+                 <a href= "http://garimareal.blogspot.in/" style="bottom: -5px; padding-left: 3px; width:1px; font size:x-small; height:1px; position: relative;"><img src="https://pbs.twimg.com/profile_images/2136871425/logobleed_bigger.png" /> </a> <br><br>
+                 
+                 
+            </p5>`
                 
     },
     'article-two':{
