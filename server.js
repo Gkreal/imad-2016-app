@@ -108,33 +108,33 @@ var articles = {
                     <div class = "center">
                        <h2> Calligraphy competition </h2>
                     
-                        <br><p7><br>Secured 1st position in Calligraphy competition, VBPS, Delhi 2006.</p7><br>
+                        <br><p8><br>Secured 1st position in Calligraphy competition, VBPS, Delhi 2006.</p8><br>
                        
                         <div class ="center">
                     <br>
                     
                     <h2> Slogan Writing Competition</h2><br>
                     
-                        <p7>Secured 1st position in Slogan Writing Competition, VBPS, Delhi 2005.</p7><br><br>
+                        <p8>Secured 1st position in Slogan Writing Competition, VBPS, Delhi 2005.</p8><br><br>
                     
                     <h2> 4X100 mts Relay </h2><br>
-                        <p7>Secured 2nd position in 4X100 mts Relay held at Ramjas Sports and Mountaineering Institute, 2004.</p7><br><br>
+                        <p8>Secured 2nd position in 4X100 mts Relay held at Ramjas Sports and Mountaineering Institute, 2004.</p8><br><br>
                     
                     <h2>Scouts and Guides Training Camp </h2><br>
-                        <p7>Attended Scouts and Guides Training Camp and received a certificate of merit at S.J center Nizamuddin, Delhi</p7><br><br>
+                        <p8>Attended Scouts and Guides Training Camp and received a certificate of merit at S.J center Nizamuddin, Delhi</p8><br><br>
                       
                     <h2>Social Service by Help Age India </h2><br>
-                        <p7>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p7><br><br>
+                        <p8>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p8><br><br>
                         
                           
                     <h2>Basket Ball Competition</h2>
-                        <p7>Secured ' Runner up 'position in Basket Ball competition Sports meet, 2007. </p7><br><br>
+                        <p8>Secured ' Runner up 'position in Basket Ball competition Sports meet, 2007. </p8><br><br>
                         
                         <h2>Research Showcase </h2>
-                        <p7>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p7><br><br>
+                        <p8>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p8><br><br>
                         
                         <h2> Sucessfully secured internship </h2>
-                        <p7> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264" </p7><br><br>
+                        <p8> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264" </p8><br><br>
                         
                         
                         
