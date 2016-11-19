@@ -88,7 +88,7 @@ var articles = {
         title:'Article three| Garima Khanna',
         heading:' ',
         content:`   
-                   
+                    <div class = "container7">
                     <div class = "container6">
                     <div class ="center">
                     <br><br><br><br>
@@ -146,10 +146,10 @@ var articles = {
                     <h2>Basket Ball Competition</h2><br>
                         <p7>Secured ' Runner up 'position in Basket Ball competition Sports meet, 2007. </p7><br><br>
                         
-                        <h2>Research Showcase </h2><br>
+                    <h2>Research Showcase </h2><br>
                         <p7>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p7><br><br>
                         
-                        <h2> Sucessfully secured internship </h2><br>
+                    <h2> Sucessfully secured internship </h2><br>
                         <p7> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264" </p7><br><br>
                         
                         
