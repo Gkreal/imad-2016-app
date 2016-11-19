@@ -11,6 +11,7 @@ var articles = {
         heading:' '  ,
         content:
         `<p4>
+                <div class = "container7">
                 <div class = "container2">
                 <div class="center">
                     <br>
@@ -53,7 +54,7 @@ var articles = {
         title:'Article two| Garima Khanna',
         heading:' ',
         content:`   
-                     
+                     <div class = "container7">
                      <div class= "container6">
                     <div class = "center">
                        <h2> Career Vision </h2>
@@ -120,7 +121,9 @@ var articles = {
     'article-four':{
         title: 'Article four| Garima Khanna',
         heading:' ',
-        content:`<div class= "container6">
+        content:`
+                    <div class = "container7">
+                    <div class= "container6">
                     <div class = "center">
                        <h2> Calligraphy competition </h2>
                     
