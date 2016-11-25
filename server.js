@@ -433,8 +433,8 @@ var articles = {
         title:'Article seven| Garima Khanna',
         heading:' ',
         content:`   
-                    <div class ="container6">
-                    <div class ="center">
+                   
+                    
                     <br><br><br><br>
                     
                     <h2> Charts </h2><br><br>
