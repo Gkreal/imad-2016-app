@@ -469,7 +469,7 @@ var articles = {
         heading:' ',
         content:`   
                     <div class ="containe7">
-                    <div class ="container6">
+                   
                     <div class ="center">
                     <br><br><br><br>
                     
