@@ -534,7 +534,15 @@ var articles = {
                         <span style="color:#9933FF"> Pitampura</span>  
                         <span style="color:#000"> Anand Vihar </span>
                         </div>
+                        
 <h2> Chart 2- Stream Graph </h2>
+
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 10px sans-serif;
+}
                     .chart { 
   background: #fff;
 }
