@@ -175,7 +175,7 @@ var articles = {
         heading:' ',
         content:`
                     <div class = "container7">
-                    <div class = "container6">
+                    <div class = "container4">
                     
                        <h2> Clock </h2><br><br><br><br>
                             <canvas id="canvas" width="400" height="400"
