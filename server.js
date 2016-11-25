@@ -279,7 +279,7 @@ var articles = {
                     
                         <p7>Lets start</p7><br><br><br>
                         
-                       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                      
                         <style>
                         canvas {
                             border:1px solid #d3d3d3;
