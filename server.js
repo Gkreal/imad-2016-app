@@ -524,15 +524,15 @@ var articles = {
                         
                         <body onLoad="init()">
                         <div align="center">
-                        <h2>Monthly Profits of Companies(in million $)</h2>
+                        <h2>Pollution Levels in delhi</h2>
                         
                         <canvas id="canvas" height="400" width="650">
                         </canvas>
                         <br>
                         	<!--Legends for Dataplot -->
-                        <span style="color:#FF0066"> Apple </span>  
-                        <span style="color:#9933FF"> Samsung</span>  
-                        <span style="color:#000"> Nokia </span>
+                        <span style="color:#FF0066"> Shahadra </span>  
+                        <span style="color:#9933FF"> Pitampura</span>  
+                        <span style="color:#000"> Anand Vihar </span>
                         </div>
 
                         
