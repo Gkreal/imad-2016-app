@@ -264,8 +264,28 @@ var articles = {
                                 }
                                 </script><br><br><br><br
                       `
-     }
+     },
+
+ 'article-six':{
+        title:'Article six| Garima Khanna',
+        heading:' ',
+        content:`   
+                    <div class = "container7">
+                    <div class = "container6">
+                    <div class ="center">
+                    <br><br><br><br>
+                    
+                    <h2> Game </h2><br><br>
+                    
+                        <p7>Lets start
+                        </p7><br><br><br>
+                    
+                    
+                    
+                    
+`}
 };
+
   function createTemplate  (data){
     var title = data.title;
     var heading = data.heading;
