@@ -530,7 +530,7 @@ function plotData(dataSet) {
 
 <body onLoad="init()">
 <div align="center">
-<h2>Monthly Profits of Companies(in million $)</h2>
+<h2>Pollution levels in Delhi</h2>
 
 <canvas id="canvas" height="400" width="650">
 </canvas>
