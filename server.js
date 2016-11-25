@@ -103,7 +103,7 @@ var articles = {
         heading:' ',
         content:`   
                     <div class = "container7">
-                    <div class = "container6">
+                   
                     <div class ="center">
                     <br><br><br><br>
                     
@@ -418,7 +418,7 @@ var articles = {
                                     myGamePiece.speedY = 0; 
                                 }
                                 </script>
-                                <div style="text-align:center;width:480px;">
+
                                   <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button>
                                   <button><class = "button1" onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
                                   <button><class = "button1" onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button>
