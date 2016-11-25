@@ -270,14 +270,14 @@ var articles = {
         title:'Article six| Garima Khanna',
         heading:' ',
         content:`   
-                   <div class ="container7">
+                   
                     <div class ="center">
                     <br><br><br><br>
                     
                        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                                 <style>
                                 canvas {
-                                    border:1px solid #d3d3d3;
+                                    border:10px solid #d3d3d3;
                                     background-color: #C71585;
                                 }
                                 </style>
