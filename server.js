@@ -282,7 +282,7 @@ var articles = {
                                 }
                                 </style>
                                 </head>
-                                <body onclick  <button><class="button1" >UP</button>="startGame()">
+                                <body onload="startGame()">
                                 <script>
                                 
                                 var myGamePiece;
