@@ -536,7 +536,7 @@ var articles = {
                         </div>
                         
     <h2> Chart 2- Stream Graph </h2>
-                                                    script type="text/javascript">
+                            <script type="text/javascript">
                             
                             var canvas ;
                             var context ;
