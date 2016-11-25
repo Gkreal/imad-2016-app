@@ -475,20 +475,20 @@ var articles = {
                     
                     <h2> Google Maps </h2><br><br>
                     
-                        <p7><div id="map" style="width:100%;height:500px"></div>
-
-                            <script>
-                            function myMap() {
-                              var mapCanvas = document.getElementById("map");
-                              var mapOptions = {
-                                center: new google.maps.LatLng(51.5, -0.2),
-                                zoom: 5
-                              }
-                              var map = new google.maps.Map(mapCanvas, mapOptions);
-                            }
-                            </script>
-                            
-                            <script src="https://www.google.com/maps/d/u/0/edit?mid=19cPx6Dgh8KCkx-uZlAg9dRZXIsU&ll=28.68486249261306%2C77.1967105763672&z=12"></script></p7><br><br><br>
+                       <div id='chart' style="width:600px;height:300px;"></div>
+                        <script src="js/flotr2.min.js"></script>
+                        <script>
+                        window.onload = function () {
+                            Flotr.draw(
+                                document.getElementById("chart"),
+                                wins,
+                                {
+                                    bars: {
+                                        show: true
+                                    }
+                                }
+                            );
+                        };
    
     
     `},
