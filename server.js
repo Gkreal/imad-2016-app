@@ -447,9 +447,6 @@ var articles = {
                     <div class = "container4">
                     <br><br><br><br>
                     
-                    <h2> Charts </h2><br><br>
-                    
-                       
                           <style>html{font-family:Verdana;}</style>
                         	
                         <script type="text/javascript">
@@ -462,16 +459,16 @@ var articles = {
                         var xScale;
                         var yScale;
                         		// Values for the Data Plot, they can also be obtained from a external file
-                        var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
-                        var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
-                        var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
+                        var Anand Vihar =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
+                        var Shahdra = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
+                        var Pitampura =   [20, 10, 20, 25, 10, 5, 10, 28, 30, 43, 65, 80];
                         
                         function init() {
                         		// set these values for your data 
                         	sections = 12;
-                        	Val_max = 130;
-                        	Val_min = -40;
-                        	var stepSize = 10;
+                        	Val_max = 180;
+                        	Val_min = 0;
+                        	var stepSize = 5;
                         	var columnSize = 50;
                         	var rowSize = 50;
                         	var margin = 10;
