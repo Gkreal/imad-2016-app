@@ -275,7 +275,7 @@ var articles = {
                     <div class ="center">
                     <br><br><br><br>
                     
-                    <h2> Game </h2><br><br>
+                        <h2> Game </h2><br><br>
                     
                         <p7>Lets start</p7><br><br><br>
                         
@@ -302,8 +302,8 @@ var articles = {
                         var myGameArea = {
                             canvas : document.createElement("canvas"),
                             start : function() {
-                                this.canvas.width = 800;
-                                this.canvas.height = 270;
+                                this.canvas.width = 1000;
+                                this.canvas.height = 400;
                                 this.context = this.canvas.getContext("2d");
                                 document.body.insertBefore(this.canvas, document.body.childNodes[0]);
                                 this.interval = setInterval(updateGameArea, 20);
