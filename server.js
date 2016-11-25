@@ -259,7 +259,7 @@ var articles = {
                                     ctx.stroke();
                                     ctx.rotate(-pos);
                                 }
-                                </script>
+                                </script><br><br><br><br
                       `
      }
 };
