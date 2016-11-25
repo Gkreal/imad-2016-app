@@ -277,7 +277,7 @@ var articles = {
                        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                                 <style>
                                 canvas {
-                                    border:10px solid #d3d3d3;
+                                    border:10px solid "black";
                                     background-color: #C71585;
                                 }
                                 </style>
@@ -418,7 +418,7 @@ var articles = {
                                 }
                                 </script>
                                 <div style="text-align:center;width:480px;">
-                                  <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()" color="purple">UP</button>
+                                  <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()" >UP</button>
                                   <button><class = "button1" onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
                                   <button><class = "button1" onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button>
                                   <button><class = "button1" onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">DOWN</button>
