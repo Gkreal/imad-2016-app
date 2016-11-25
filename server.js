@@ -102,7 +102,7 @@ var articles = {
         title:'Article three| Garima Khanna',
         heading:' ',
         content:`   
-                    <div class = "container7">
+                    
                    
                     <div class ="center">
                     <br><br><br><br>
