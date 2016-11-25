@@ -285,7 +285,7 @@ var articles = {
                         <style>
                         canvas {
                             border:1px solid #d3d3d3;
-                            background-color: #f1f1f1;
+                            background-color: 	#ADFF2F;
                         }
                         </style>
                         </head>
@@ -295,7 +295,7 @@ var articles = {
                         var myGamePiece;
                         
                         function startGame() {
-                            myGamePiece = new component(30, 30, "red", 10, 120);
+                            myGamePiece = new component(30, 30, "#FF6347", 10, 120);
                             myGameArea.start();
                         }
                         
