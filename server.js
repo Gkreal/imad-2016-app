@@ -102,8 +102,8 @@ var articles = {
         title:'Article three| Garima Khanna',
         heading:' ',
         content:`   
-                    
-                   
+                    <div class ="containe7">
+                    <div class ="container6">
                     <div class ="center">
                     <br><br><br><br>
                     
@@ -270,8 +270,7 @@ var articles = {
         title:'Article six| Garima Khanna',
         heading:' ',
         content:`   
-                    <div class = "container7">
-                    <div class = "container6">
+                   
                     <div class ="center">
                     <br><br><br><br>
                     
