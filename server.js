@@ -353,7 +353,8 @@ var articles = {
                         }
                         </script>
                         <div style="text-align:center;width:480px;">
-                          <button1 onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button><br><br>
+                           <a href="http://gkreal.imad.hasura-app.io/article-three" class="button1">Projects</a>
+                          <class = "button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button><br><br>
                           <button1 onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
                           <button1 onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button><br><br>
                           <button1 onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">DOWN</button>
