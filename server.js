@@ -535,31 +535,91 @@ var articles = {
                         <span style="color:#000"> Anand Vihar </span>
                         </div>
                         
-                        <h2> Chart 2- Stream Graph </h2>
+    <h2> Chart 2- Stream Graph </h2>
+                                                    script type="text/javascript">
+                            
+                            var canvas ;
+                            var context ;
+                            var noItems;
+                            var xScalar;
+                            var yScalar;
+                            var radius;
+                            var pie;
+                            		// values for each entity on the Graph 
+                            var itemsName = [ "Chrome", "Firefox", "Opera", "I E" ];
+                            var case1Value = [ 500, 300, 100, 100 ];
+                            var case2Value = [ 550, 250, 100 ,100 ];
+                            var case3Value = [ 650, 200, 150, 150 ];
+                            var sectorColor = ["#339933", "#9933FF", "#FF6666", "#3333CC" ];
+                            
+                            function init() {
+                            		// set values for data
+                            	noItems = 4;		
+                            	canvas = document.getElementById("canvas");
+                            	pie = document.getElementById("pie");
+                            	context = canvas.getContext("2d");
+                            	drawPie();
+                            }
+                            
+                            function drawPie() {
+                            	radius = canvas.height / 3;
+                            	var centerX = canvas.width / 2;
+                            	var centerY = canvas.height / 2;
+                            	context.strokeStyle = "black";
+                            	context.font = "17 pt Arial";
+                            	context.textAlign = "center";
+                            	context.textBaseline = "middle";
+                            		// get data for each case
+                            	var itemsValue = case1Value;
+                            	if (pie.value=="case2")
+                            	    itemsValue = case2Value;
+                            	if (pie.value=="case3")
+                            	    itemsValue = case3Value;
+                              
+                            	    // compute total value of the pie 
+                            	var sum = 0;
+                            	for (i=0;i<noItems;i++) {
+                            	    sum = sum + itemsValue[i];
+                            	}
+                            		// initialize the drawing 
+                            	context.clearRect(0,0, canvas.width, canvas.height);
+                            	var initialAngle = 0;
+                            	
+                            	// draw for each data item 
+                            	for (i=0;i<noItems;i++) { 
+                            		// draw each part of the pie 
+                            		var sector = itemsValue[i] / sum;
+                            		var wedge = 2 * Math.PI * sector;
+                            		context.beginPath();
+                            		var Newangle = initialAngle + wedge;
+                            		context.arc(centerX, centerY, radius, initialAngle, Newangle);
+                            		context.lineTo(centerX, centerY);
+                            		context.closePath();
+                            		context.fillStyle = sectorColor[i];
+                            		context.fill();    // fill the sectors with specific colors
+                            		context.stroke();  // stroke the outlines
+                            		
+                            		
+                            			// define angle for wedge
+                            		var nameAngle = initialAngle + wedge / 2;
+                            			// set x,y for label outside center of wedge
+                            			// adjust for fact text is wider than it is tall
+                            		var nameX = centerX + Math.cos(nameAngle) * radius * 1.4;
+                            		var nameY = centerY + Math.sin(nameAngle) * radius * 1.3 - 14;
+                            			// print name and value with black shadow
+                            		context.save();
+                            		context.fillStyle = fillColor[i];
+                            		context.fillText(itemsName[i], nameX, nameY);
+                            		context.fillText( itemsValue[i] + " million", nameX, nameY + 15);
+                            		context.restore();
+                            			// update beginning angle for next wedge
+                            		initialAngle = initialAngle + wedge;
+                            	}
+                            }
+                            
+                            </script>
+
                         
-                        <script src="../vendor/d3.min.js"></script>
-                        <script src="../vendor/d3.layout.min.js"></script>
-                        <script src="../rickshaw.min.js"></script>
-                        
-                        <div id="chart"></div>
-                        
-                        <script>
-                        
-                        var data = [ { x: 0, y: 40 }, { x: 1, y: 49 }, { x: 2, y: 17 }, { x: 3, y: 42 } ];
-                        
-                        var graph = new Rickshaw.Graph( {
-                                element: document.querySelector("#chart"),
-                                width: 580,
-                                height: 250,
-                                series: [ {
-                                        color: 'steelblue',
-                                        data: data
-                                } ]
-                        } );
-                        
-                        graph.render();
-                        
-                        </script>        
    
     
     `},
