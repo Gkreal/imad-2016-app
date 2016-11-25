@@ -172,6 +172,7 @@ var articles = {
         heading:' ',
         content:`
                     <div class = "container7">
+                    <div class = "container6">
                     
                        <h2> Clock </h2>
                             <canvas id="canvas" width="400" height="400"
