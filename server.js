@@ -426,14 +426,71 @@ var articles = {
                                 </div> <br><br><br><br>
 
 
+                    
+`},
+
+'article-two':{
+        title:'Article two| Garima Khanna',
+        heading:' ',
+        content:`   
+                     <div class = "container7">
+                     <div class= "container6">
+                    <div class = "center">
+                       <h2> Career Vision </h2>
+                    
+                        <br><p7><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.</p7><br>
+                       
+                        <div class ="center">
+                    <br>
+                    
+                    <h2> Summer Training at NIIT Technologies , Delhi</h2><br>
+                    
+                        <p7>Undergone training on C, C++ and DATA STRUCTURE.</p7><br><br>
+                    
+                    <h2> Delhi Metro Rail Corporation, Barakhamba Road , Delhi  </h2><br>
+                        <p7> Undergone training on signaling and telecommunications dept. of Delhi Metro.</p7><br><br>
+                    
+                    <h2>Cetpa Infotech Pvt Ltd. Noida , Delhi</h2><br>
+                        <p7>Undergone training on Embedded system 89C51 and worked on many projects.</p7><br><br>
+                      
+                    <h2>HPT, Doordarshan, Prasar Bharati, Pitampura , Delhi</h2><br>
+                        <p7>Undergone summer training on Satellite Communication at HPT T.V Tower.</p7><br><br>
+                        
+                   
 
 
+                    
+               
 
-           
+                `
+    },
+    'article-seven':{
+        title:'Article seven| Garima Khanna',
+        heading:' ',
+        content:`   
+                    <div class ="containe7">
+                    <div class ="container6">
+                    <div class ="center">
+                    <br><br><br><br>
                     
+                    <h2> Google Maps </h2><br><br>
                     
-                    
-`}
+                        <p7><div id="map" style="width:100%;height:500px"></div>
+
+                            <script>
+                            function myMap() {
+                              var mapCanvas = document.getElementById("map");
+                              var mapOptions = {
+                                center: new google.maps.LatLng(51.5, -0.2),
+                                zoom: 5
+                              }
+                              var map = new google.maps.Map(mapCanvas, mapOptions);
+                            }
+                            </script>
+                            
+                            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script></p7><br><br><br>
+    
+    `},
 };
 
   function createTemplate  (data){
