@@ -447,7 +447,9 @@ var articles = {
                     <div class = "container4">
                     <br><br><br><br>
                     
-                         <script type="text/javascript">
+               <style>html{font-family:Verdana;}</style>
+	
+<script type="text/javascript">
 
 var canvas ;
 var context ;
@@ -470,8 +472,7 @@ function init() {
 	var columnSize = 50;
 	var rowSize = 50;
 	var margin = 10;
-	var xAxis = [" ", "Jan", "Feb", "Mar", "Apr",
-	"May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] 
+	var xAxis = [" ", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] 
 		//
 		
 	canvas = document.getElementById("canvas");
@@ -525,6 +526,17 @@ function plotData(dataSet) {
 }
 
 </script>
+</head>
+
+<body onLoad="init()">
+<div align="center">
+<h2>Monthly Profits of Companies(in million $)</h2>
+
+<canvas id="canvas" height="400" width="650">
+</canvas>
+<br>
+	<!--Legends for Dataplot -->
+
 
                         <span style="color:#FF0066"> Anand Vihar </span>  
                         <span style="color:#9933FF"> Pitampura</span>  
