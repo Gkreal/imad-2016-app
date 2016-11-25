@@ -279,7 +279,7 @@ var articles = {
                                 <style>
                                 canvas {
                                     border:1px solid #d3d3d3;
-                                    background-color: #f1f1f1;
+                                    background-color: #C71585;
                                 }
                                 </style>
                                 </head>
@@ -291,7 +291,7 @@ var articles = {
                                 var mySound;
                                 
                                 function startGame() {
-                                    myGamePiece = new component(30, 30, "red", 10, 120);
+                                    myGamePiece = new component(30, 30, "#FFC0CB", 10, 120);
                                     mySound = new sound("bounce.mp3");
                                     myGameArea.start();
                                 }
@@ -299,8 +299,8 @@ var articles = {
                                 var myGameArea = {
                                     canvas : document.createElement("canvas"),
                                     start : function() {
-                                        this.canvas.width = 480;
-                                        this.canvas.height = 270;
+                                        this.canvas.width = 1000;
+                                        this.canvas.height = 400;
                                         this.context = this.canvas.getContext("2d");
                                         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
                                         this.frameNo = 0;
@@ -366,8 +366,8 @@ var articles = {
                                         minGap = 50;
                                         maxGap = 200;
                                         gap = Math.floor(Math.random()*(maxGap-minGap+1)+minGap);
-                                        myObstacles.push(new component(10, height, "green", x, 0));
-                                        myObstacles.push(new component(10, x - height - gap, "green", x, height + gap));
+                                        myObstacles.push(new component(10, height, "white", x, 0));
+                                        myObstacles.push(new component(10, x - height - gap, "white", x, height + gap));
                                     }
                                     for (i = 0; i < myObstacles.length; i += 1) {
                                         myObstacles[i].x -= 1;
