@@ -275,13 +275,7 @@ var articles = {
                     <div class ="center">
                     <br><br><br><br>
                     
-                        <h2> Game </h2><br><br>
-                    
-                        <p7>Lets start</p7><br><br><br>
-                        
-                      
-                        
-                       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
                         <style>
                         canvas {
                             border:1px solid #d3d3d3;
@@ -359,10 +353,10 @@ var articles = {
                         }
                         </script>
                         <div style="text-align:center;width:480px;">
-                          <button onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button><br><br>
-                          <button onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
-                          <button onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button><br><br>
-                          <button onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">DOWN</button>
+                          <button1 onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button><br><br>
+                          <button1 onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
+                          <button1 onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button><br><br>
+                          <button1 onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">DOWN</button>
                         </div>
 
 
