@@ -300,7 +300,7 @@ var articles = {
                                     canvas : document.createElement("canvas"),
                                     start : function() {
                                         this.canvas.width = 1000;
-                                        this.canvas.height = 400;
+                                        this.canvas.height = 500;
                                         this.context = this.canvas.getContext("2d");
                                         document.body.insertBefore(this.canvas, document.body.childNodes[0]);
                                         this.frameNo = 0;
@@ -419,9 +419,9 @@ var articles = {
                                 }
                                 </script>
                                 <div style="text-align:center;width:480px;">
-                                  <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button><br><br>
+                                  <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()">UP</button>
                                   <button><class = "button1" onmousedown="moveleft()" onmouseup="clearmove()" ontouchstart="moveleft()">LEFT</button>
-                                  <button><class = "button1" onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button><br><br>
+                                  <button><class = "button1" onmousedown="moveright()" onmouseup="clearmove()" ontouchstart="moveright()">RIGHT</button>
                                   <button><class = "button1" onmousedown="movedown()" onmouseup="clearmove()" ontouchstart="movedown()">DOWN</button>
                                 </div>
 
