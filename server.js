@@ -266,9 +266,9 @@ var articles = {
                                 <p6> "As the time is passing , its alarming "</p6><br><br><br>
                                 <p8>Choked: Delhi's pollution level is fives times worse than just eight years ago as experts warn air quality is as noxious as Jharia coal town. Delhiites are breathing poison. If you thought CNG had made the Capital's air cleaner, then it's time for a reality check. The alarming pollution levels have blackened Delhi's air to such an extent that it ranks alongside coal town Jharia and unregulated industrial hubs like Ludhiana, Raipur and Kanpur. And it's the ever-increasing numbers of diesel-guzzling passenger cars and trucks plying unregulated on the city's roads that are largely to blame for the situation.</p8><br><br><br><br>
                                 
-                                  <img src= "http://images.mid-day.com/images/2016/apr/22pollution-s.jpg" style= position:centre,width:300px, height:800px;> <br><br><br><br>
+                                 
                                   
-                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Statistics</a>
+                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Statistics</a> <br><br>
                                 
                                
 
@@ -539,9 +539,9 @@ var articles = {
                         </canvas>
                         <br>
                         	<!--Legends for Dataplot -->
-                        <span style="color:#FF0066"> Shahadra </span>  
+                        <span style="color:#FF0066"> Anand Vihar </span>  
                         <span style="color:#9933FF"> Pitampura</span>  
-                        <span style="color:#000"> Anand Vihar </span>
+                        <span style="color:#000"> Shahadra </span>
                         </div>
                         
 
