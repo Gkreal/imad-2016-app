@@ -488,7 +488,7 @@ var articles = {
                             }
                             </script>
                             
-                            <script src="https://www.google.com/maps/d/u/0/viewer?mid=19cPx6Dgh8KCkx-uZlAg9dRZXIsU&ll=38.72987011410126%2C-82.24640162500003&z=6"></script></p7><br><br><br>
+                            <script src="https://www.google.com/maps/d/u/0/edit?mid=19cPx6Dgh8KCkx-uZlAg9dRZXIsU&ll=28.68486249261306%2C77.1967105763672&z=12"></script></p7><br><br><br>
    
     
     `},
