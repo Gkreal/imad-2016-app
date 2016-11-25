@@ -166,7 +166,7 @@ var articles = {
                         <p7>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p7><br><br>
                         
                     <h2> Sucessfully secured internship </h2><br>
-                        <p7> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264" </p7><br><br>
+                        <p7> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264"></a> </p7><br><br>
                        `
     },
     
@@ -265,7 +265,11 @@ var articles = {
                                 </script><br><br><br><br>
                                 <p6> "As the time is passing , its alarming "</p6><br><br><br>
                                 <p8>Choked: Delhi's pollution level is fives times worse than just eight years ago as experts warn air quality is as noxious as Jharia coal town. Delhiites are breathing poison. If you thought CNG had made the Capital's air cleaner, then it's time for a reality check. The alarming pollution levels have blackened Delhi's air to such an extent that it ranks alongside coal town Jharia and unregulated industrial hubs like Ludhiana, Raipur and Kanpur. And it's the ever-increasing numbers of diesel-guzzling passenger cars and trucks plying unregulated on the city's roads that are largely to blame for the situation.</p8><br><br>
-                                < img src= "http://3.bp.blogspot.com/-5N5MhmL9-IA/Ut85rFtqmmI/AAAAAAAAGY0/eIYr7fpfBQ4/s1600/Delhi_Air_Pollution.jpg">
+                                
+                                  <a href= "http://3.bp.blogspot.com/-5N5MhmL9-IA/Ut85rFtqmmI/AAAAAAAAGY0/eIYr7fpfBQ4/s1600/Delhi_Air_Pollution.jpg">  </a> <br><br>
+                                
+                                
+                                 
 
 
 
