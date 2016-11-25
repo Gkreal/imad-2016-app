@@ -282,7 +282,7 @@ var articles = {
                                 }
                                 </style>
                                 </head>
-                                <body onclick  <button><class="button1" onmousedown="moveup()" onmouseup="clearmove()" ontouchstart="moveup()" >UP</button>="startGame()">
+                                <body onclick  <button><class="button1" >UP</button>="startGame()">
                                 <script>
                                 
                                 var myGamePiece;
