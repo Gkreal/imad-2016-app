@@ -429,55 +429,17 @@ var articles = {
                     
 `},
 
-'article-two':{
-        title:'Article two| Garima Khanna',
-        heading:' ',
-        content:`   
-                     <div class = "container7">
-                     <div class= "container6">
-                    <div class = "center">
-                       <h2> Career Vision </h2>
-                    
-                        <br><p7><br>To work in a challenging environment demanding all my skills and efforts to adapt myself in technical field<br> and realize my potential where I get the opportunity for continuous learning and <br>exploring new technologies.</p7><br>
-                       
-                        <div class ="center">
-                    <br>
-                    
-                    <h2> Summer Training at NIIT Technologies , Delhi</h2><br>
-                    
-                        <p7>Undergone training on C, C++ and DATA STRUCTURE.</p7><br><br>
-                    
-                    <h2> Delhi Metro Rail Corporation, Barakhamba Road , Delhi  </h2><br>
-                        <p7> Undergone training on signaling and telecommunications dept. of Delhi Metro.</p7><br><br>
-                    
-                    <h2>Cetpa Infotech Pvt Ltd. Noida , Delhi</h2><br>
-                        <p7>Undergone training on Embedded system 89C51 and worked on many projects.</p7><br><br>
-                      
-                    <h2>HPT, Doordarshan, Prasar Bharati, Pitampura , Delhi</h2><br>
-                        <p7>Undergone summer training on Satellite Communication at HPT T.V Tower.</p7><br><br>
-                        
-                   
-
-
-                    
-               
-
-                `
-    },
     'article-seven':{
         title:'Article seven| Garima Khanna',
         heading:' ',
         content:`   
-                    <div class ="containe7">
-                   
+                    <div class ="container6">
                     <div class ="center">
                     <br><br><br><br>
                     
-                    <h2> Google Maps </h2><br><br>
+                    <h2> Charts </h2><br><br>
                     
-                                               
-            
-                          <style>html{font-family:Verdana;}</style>
+                        <style>html{font-family:Britannic-bold;}</style>
                         	
                         <script type="text/javascript">
                         
@@ -489,9 +451,9 @@ var articles = {
                         var xScale;
                         var yScale;
                         		// Values for the Data Plot, they can also be obtained from a external file
-                        var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
-                        var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
-                        var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
+                        var Pitampura =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
+                        var Shahadra = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
+                        var Anand Vihar =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
                         
                         function init() {
                         		// set these values for your data 
@@ -539,11 +501,11 @@ var articles = {
                         		// Color of each dataplot items
                         		
                         	context.strokeStyle="#FF0066";
-                        	plotData(Apple);
+                        	plotData(Pitampura);
                         	context.strokeStyle="#9933FF";
-                        	plotData(Samsung);
+                        	plotData(Anand vihar);
                         	context.strokeStyle="#000";
-                        	plotData(Nokia);
+                        	plotData(Shahadra);
                         }
                         
                         function plotData(dataSet) {
@@ -560,15 +522,13 @@ var articles = {
                         
                         <body onLoad="init()">
                         <div align="center">
-                        <h2>Monthly Profits of Companies(in million $)</h2>
+                        <h2>Pollution Levels of various places in Delhi</h2>
                         
                         <canvas id="canvas" height="400" width="650">
                         </canvas>
                         <br>
                         	<!--Legends for Dataplot -->
-                        <span style="color:#FF0066"> Apple </span>  
-                        <span style="color:#9933FF"> Samsung</span>  
-                        <span style="color:#000"> Nokia </span>
+                        
                         </div>
                         
    
