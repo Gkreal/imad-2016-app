@@ -439,7 +439,8 @@ var articles = {
                     
                     <h2> Charts </h2><br><br>
                     
-                        <style>html{font-family:Britannic-bold;}</style>
+                       
+                          <style>html{font-family:Verdana;}</style>
                         	
                         <script type="text/javascript">
                         
@@ -451,9 +452,9 @@ var articles = {
                         var xScale;
                         var yScale;
                         		// Values for the Data Plot, they can also be obtained from a external file
-                        var Pitampura =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
-                        var Shahadra = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
-                        var Anand Vihar =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
+                        var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
+                        var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
+                        var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
                         
                         function init() {
                         		// set these values for your data 
@@ -501,11 +502,11 @@ var articles = {
                         		// Color of each dataplot items
                         		
                         	context.strokeStyle="#FF0066";
-                        	plotData(Pitampura);
+                        	plotData(Apple);
                         	context.strokeStyle="#9933FF";
-                        	plotData(Anand vihar);
+                        	plotData(Samsung);
                         	context.strokeStyle="#000";
-                        	plotData(Shahadra);
+                        	plotData(Nokia);
                         }
                         
                         function plotData(dataSet) {
@@ -522,14 +523,17 @@ var articles = {
                         
                         <body onLoad="init()">
                         <div align="center">
-                        <h2>Pollution Levels of various places in Delhi</h2>
+                        <h2>Monthly Profits of Companies(in million $)</h2>
                         
                         <canvas id="canvas" height="400" width="650">
                         </canvas>
                         <br>
                         	<!--Legends for Dataplot -->
-                        
+                        <span style="color:#FF0066"> Apple </span>  
+                        <span style="color:#9933FF"> Samsung</span>  
+                        <span style="color:#000"> Nokia </span>
                         </div>
+
                         
    
     
