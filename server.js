@@ -266,7 +266,7 @@ var articles = {
                                 <p6> "As the time is passing , its alarming "</p6><br><br><br>
                                 <p8>Choked: Delhi's pollution level is fives times worse than just eight years ago as experts warn air quality is as noxious as Jharia coal town. Delhiites are breathing poison. If you thought CNG had made the Capital's air cleaner, then it's time for a reality check. The alarming pollution levels have blackened Delhi's air to such an extent that it ranks alongside coal town Jharia and unregulated industrial hubs like Ludhiana, Raipur and Kanpur. And it's the ever-increasing numbers of diesel-guzzling passenger cars and trucks plying unregulated on the city's roads that are largely to blame for the situation.</p8><br><br>
                                 
-                                  <src= "http://3.bp.blogspot.com/-5N5MhmL9-IA/Ut85rFtqmmI/AAAAAAAAGY0/eIYr7fpfBQ4/s1600/Delhi_Air_Pollution.jpg" style= position:centre,width:300px, height:800px;> <br><br>
+                                  <img src= "http://3.bp.blogspot.com/-5N5MhmL9-IA/Ut85rFtqmmI/AAAAAAAAGY0/eIYr7fpfBQ4/s1600/Delhi_Air_Pollution.jpg" style= position:centre,width:300px, height:800px;> <br><br>
                                 
                                
 
