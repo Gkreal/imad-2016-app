@@ -434,7 +434,8 @@ var articles = {
         heading:' ',
         content:`   
                    
-                    
+                    <div class = "container7">
+                    <div class = "container2">
                     <br><br><br><br>
                     
                     <h2> Charts </h2><br><br>
