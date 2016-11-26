@@ -169,7 +169,7 @@ var articles = {
                     <h2>Research Showcase </h2><br>
                         <p7>Winner of Research Showcase along with team members and got scholarship ,held at IGTUW, Delhi 2016.</p7><br><br>
                         
-                        <img class ='img' src= "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14095974_1760588977490541_7357104851879756086_n.jpg?oh=0b21bd30a2cf599c37d3ac0d9f52118b&oe=58C7E9D8" style= position:centre,width:300px, height:800px;> <br><br><br>
+                        <img class ='img1' src= "https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14095974_1760588977490541_7357104851879756086_n.jpg?oh=0b21bd30a2cf599c37d3ac0d9f52118b&oe=58C7E9D8" style= position:centre,width:300px, height:800px;> <br><br><br>
                         
                     <h2> Sucessfully secured internship </h2><br>
                         <p7> Working on a R&D project under CSIR <a href = "http://internshala.com/student/certificate/3228633/1E401AF0-6AAF-0330-8DCA-D25C113FA264"></a> </p7><br><br>
