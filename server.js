@@ -550,8 +550,6 @@ function plotData(dataSet) {
                         </div>
                         
 Pie chart
-<div class = "container7">
-                    <div class = "container4">
 
 
 <html>
