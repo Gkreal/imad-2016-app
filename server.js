@@ -151,16 +151,16 @@ var articles = {
                     
                     <h2> Slogan Writing Competition</h2><br>
                     
-                        <p7>Secured 1st position in Slogan Writing Competition, VBPS, Delhi 2005.</p7><br><br>
+                        <p7>Secured 1st position in Slogan Writing Competition, VBPS, Delhi 2005.</p7><br><br><br>
                     
                     <h2> 4X100 mts Relay </h2><br>
-                        <p7>Secured 2nd position in 4X100 mts Relay held at Ramjas Sports and Mountaineering Institute, 2004.</p7><br><br>
+                        <p7>Secured 2nd position in 4X100 mts Relay held at Ramjas Sports and Mountaineering Institute, 2004.</p7><br><br><br>
                     
                     <h2>Scouts and Guides Training Camp </h2><br>
-                        <p7>Attended Scouts and Guides Training Camp and received a certificate of merit at S.J center Nizamuddin, Delhi</p7><br><br>
+                        <p7>Attended Scouts and Guides Training Camp and received a certificate of merit at S.J center Nizamuddin, Delhi</p7><br><br><br>
                       
-                    <h2>Social Service by Help Age India </h2><br>
-                        <p7>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p7><br><br>
+                    <h2>Social Service by Help Age India </h2><br><br>
+                        <p7>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p7><br><br><br>
                         
                           
                     <h2>Basket Ball Competition</h2><br>
