@@ -549,7 +549,7 @@ function plotData(dataSet) {
                         <span style="color:#000"> Shahadra </span>
                         </div>
                         
-Pie chart
+//Pie chart
 
  <div class = "container7">
 <div class = "container4">
