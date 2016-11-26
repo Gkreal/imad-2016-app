@@ -551,8 +551,9 @@ function plotData(dataSet) {
                         
 //Pie chart
 
- 
-     <container 
+ <html>
+  <head>
+    
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
 
@@ -581,17 +582,22 @@ function plotData(dataSet) {
         ]);
 
         // Set chart options
-        var options = {'title':'Pollution Levels in Delhi',
-                       'width':800,
-                       'height':800};
+        var options = {'title':'Pllution Levels in Delhi',
+                       'width':400,
+                       'height':300};
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
         chart.draw(data, options);
       }
     </script>
- 
-  
+  </head>
+
+  <body>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+  </body>
+</html>
                            
                            
                         
