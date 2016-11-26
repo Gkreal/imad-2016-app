@@ -123,10 +123,12 @@ var articles = {
                     <h2> Vehicle Surveillance and Monitoring System</h2><br><br>
                         <p7>A vehicle security device based on raspberry pi2 with intruder alert, navigation and <br>facial recognition system. A device which is independent of the vehicle's inbuilt mechanism<br> to provide high end security at theft prone areas and also provide help in case of emergency <br> to the users. Moreover, nobody has time to keep check on the worker who is doing the <br> job of cleaning a vehicle, even if we keep check, it is not possible to do that every day. So, here is a <br> system which can not only keep check on the security of the vehicle but also act as a multipurpose tool <br>to monitor the cleaner of the vehicle. </p7><br><br><br>
                         
+                        
+                           <img class ='img-me' src= "https://twitter.com/Gkreal86/status/749536463159689216" style= position:centre,width:300px, height:800px;> <br><br><br>
+                        
                     <h2> Data Visualization of Disaster Information Retrieval Based on Social Media </h2><br><br>
                         <p7>Study of Data Visualization tools for disaster information retrieval via social media and find <br>out the best suited visualization such that that information can be extracted immediately<br> and concerned authorities may take necessary steps in case of emergency.</p7><br><br><br>
                         
-                           <img class ='img-me' src= "https://twitter.com/Gkreal86/status/749536463159689216" style= position:centre,width:300px, height:800px;> <br><br>
                     
 
                     
