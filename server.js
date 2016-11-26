@@ -125,7 +125,9 @@ var articles = {
                         
                     <h2> Data Visualization of Disaster Information Retrieval Based on Social Media </h2><br><br>
                         <p7>Study of Data Visualization tools for disaster information retrieval via social media and find <br>out the best suited visualization such that that information can be extracted immediately<br> and concerned authorities may take necessary steps in case of emergency.</p7><br><br><br>
-
+                        
+                           <img class ='img-me' src= "https://twitter.com/Gkreal86/status/749536463159689216" style= position:centre,width:300px, height:800px;> <br><br>
+                    
 
                     
                     
