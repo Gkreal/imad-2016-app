@@ -548,7 +548,7 @@ function plotData(dataSet) {
                         <span style="color:#9933FF"> Pitampura</span>  
                         <span style="color:#000"> Shahadra </span>
                         </div>
-                        
+                        <br><br><br><br>
 <h4>Pie chart</h4>
 
  <html>
