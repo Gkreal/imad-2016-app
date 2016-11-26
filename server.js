@@ -551,11 +551,7 @@ function plotData(dataSet) {
                         
 //Pie chart
 
- <div class = "container7">
-<div class = "container4">
-
-<html>
-  <head>
+ 
      <container 
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
@@ -594,13 +590,8 @@ function plotData(dataSet) {
         chart.draw(data, options);
       }
     </script>
-  </head>
-
-  <body>
-    <!--Div that will hold the pie chart-->
-    <div id="chart_div"></div>
-  </body>
-</html>
+ 
+  
                            
                            
                         
