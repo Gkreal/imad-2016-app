@@ -157,7 +157,7 @@ var articles = {
                         <p7>Secured 2nd position in 4X100 mts Relay held at Ramjas Sports and Mountaineering Institute, 2004.</p7><br><br><br>
                     
                     <h2>Scouts and Guides Training Camp </h2><br>
-                        <p7>Attended Scouts and Guides Training Camp and received a certificate of merit at S.J center Nizamuddin, Delhi</p7><br><br><br>
+                        <p7>Attended Scouts and Guides Training Camp and received  <br> a certificate of merit at S.J center Nizamuddin, Delhi</p7><br><br><br>
                       
                     <h2>Social Service by Help Age India </h2><br><br>
                         <p7>Got certificate of Social Service by Help Age India for assisting in raising funds for the Elderly.</p7><br><br><br>
