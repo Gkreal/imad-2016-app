@@ -455,92 +455,92 @@ var articles = {
                     
                <style>html{font-family:Verdana;}</style>
 	
-<script type="text/javascript">
-
-var canvas ;
-var context ;
-var Val_max;
-var Val_min;
-var sections;
-var xScale;
-var yScale;
-		// Values for the Data Plot, they can also be obtained from a external file
-var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
-var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
-var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
-
-function init() {
-		// set these values for your data 
-	sections = 12;
-	Val_max = 130;
-	Val_min = -40;
-	var stepSize = 10;
-	var columnSize = 50;
-	var rowSize = 50;
-	var margin = 10;
-	var xAxis = [" ", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] 
-		//
-		
-	canvas = document.getElementById("canvas");
-	context = canvas.getContext("2d");
-	context.fillStyle = "#0099ff"
-	context.font = "20 pt Verdana"
-	
-	yScale = (canvas.height - columnSize - margin) / (Val_max - Val_min);
-	xScale = (canvas.width - rowSize) / sections;
-	
-	context.strokeStyle="#009933"; // color of grid lines
-	context.beginPath();
-		// print Parameters on X axis, and grid lines on the graph
-	for (i=1;i<=sections;i++) {
-		var x = i * xScale;
-		context.fillText(xAxis[i], x,columnSize - margin);
-		context.moveTo(x, columnSize);
-		context.lineTo(x, canvas.height - margin);
-	}
-		// print row header and draw horizontal grid lines
-	var count =  0;
-	for (scale=Val_max;scale>=Val_min;scale = scale - stepSize) {
-		var y = columnSize + (yScale * count * stepSize); 
-		context.fillText(scale, margin,y + margin);
-		context.moveTo(rowSize,y)
-		context.lineTo(canvas.width,y)
-		count++;
-	}
-	context.stroke();
-	
-	context.translate(rowSize,canvas.height + Val_min * yScale);
-	context.scale(1,-1 * yScale);
-	
-		// Color of each dataplot items
-		
-	context.strokeStyle="#FF0066";
-	plotData(Apple);
-	context.strokeStyle="#9933FF";
-	plotData(Samsung);
-	context.strokeStyle="#000";
-	plotData(Nokia);
-}
-
-function plotData(dataSet) {
-	context.beginPath();
-	context.moveTo(0, dataSet[0]);
-	for (i=1;i<sections;i++) {
-		context.lineTo(i * xScale, dataSet[i]);
-	}
-	context.stroke();
-}
-
-</script>
-</head>
-
-<body onLoad="init()">
-<div align="center">
-<h4>Pollution levels in Delhi</h4><br><br><br><br>
-
-<canvas id="canvas" height="400" width="650">
-</canvas>
-<br>
+                        <script type="text/javascript">
+                        
+                        var canvas ;
+                        var context ;
+                        var Val_max;
+                        var Val_min;
+                        var sections;
+                        var xScale;
+                        var yScale;
+                        		// Values for the Data Plot, they can also be obtained from a external file
+                        var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
+                        var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
+                        var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
+                        
+                        function init() {
+                        		// set these values for your data 
+                        	sections = 12;
+                        	Val_max = 130;
+                        	Val_min = -40;
+                        	var stepSize = 10;
+                        	var columnSize = 50;
+                        	var rowSize = 50;
+                        	var margin = 10;
+                        	var xAxis = [" ", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"] 
+                        		//
+                        		
+                        	canvas = document.getElementById("canvas");
+                        	context = canvas.getContext("2d");
+                        	context.fillStyle = "#0099ff"
+                        	context.font = "20 pt Verdana"
+                        	
+                        	yScale = (canvas.height - columnSize - margin) / (Val_max - Val_min);
+                        	xScale = (canvas.width - rowSize) / sections;
+                        	
+                        	context.strokeStyle="#009933"; // color of grid lines
+                        	context.beginPath();
+                        		// print Parameters on X axis, and grid lines on the graph
+                        	for (i=1;i<=sections;i++) {
+                        		var x = i * xScale;
+                        		context.fillText(xAxis[i], x,columnSize - margin);
+                        		context.moveTo(x, columnSize);
+                        		context.lineTo(x, canvas.height - margin);
+                        	}
+                        		// print row header and draw horizontal grid lines
+                        	var count =  0;
+                        	for (scale=Val_max;scale>=Val_min;scale = scale - stepSize) {
+                        		var y = columnSize + (yScale * count * stepSize); 
+                        		context.fillText(scale, margin,y + margin);
+                        		context.moveTo(rowSize,y)
+                        		context.lineTo(canvas.width,y)
+                        		count++;
+                        	}
+                        	context.stroke();
+                        	
+                        	context.translate(rowSize,canvas.height + Val_min * yScale);
+                        	context.scale(1,-1 * yScale);
+                        	
+                        		// Color of each dataplot items
+                        		
+                        	context.strokeStyle="#FF0066";
+                        	plotData(Apple);
+                        	context.strokeStyle="#9933FF";
+                        	plotData(Samsung);
+                        	context.strokeStyle="#000";
+                        	plotData(Nokia);
+                        }
+                        
+                        function plotData(dataSet) {
+                        	context.beginPath();
+                        	context.moveTo(0, dataSet[0]);
+                        	for (i=1;i<sections;i++) {
+                        		context.lineTo(i * xScale, dataSet[i]);
+                        	}
+                        	context.stroke();
+                        }
+                        
+                        </script>
+                        </head>
+                        
+                        <body onLoad="init()">
+                        <div align="center">
+                        <h4>Pollution levels in Delhi</h4><br><br><br><br>
+                        
+                        <canvas id="canvas" height="400" width="650">
+                        </canvas>
+                        <br>
 	<!--Legends for Dataplot -->
 
 
@@ -551,55 +551,90 @@ function plotData(dataSet) {
                         <br><br><br><br>
 <h4>Pie chart</h4>
 
- <html>
-  <head>
-    
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-
-      // Load the Visualization API and the corechart package.
-      google.charts.load('current', {'packages':['corechart']});
-
-      // Set a callback to run when the Google Visualization API is loaded.
-      google.charts.setOnLoadCallback(drawChart);
-
-      // Callback that creates and populates a data table,
-      // instantiates the pie chart, passes in the data and
-      // draws it.
-
-      function drawChart() {
-
-        // Create the data table.
-        var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Topping');
-        data.addColumn('number', 'Slices');
-        data.addRows([
-          ['Okhla', 812],
-          ['Siri Fort', 580],
-          ['Greater Kailash', 502],
-          ['Green Park', 718],
-         
-        ]);
-
-        // Set chart options
-        var options = {'title':'Pollution Levels in South Delhi',
-                       'width':800,
-                       'height':800};
-
-        // Instantiate and draw our chart, passing in some options.
-        var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
-      }
-    </script>
-  </head>
-
-  <body>
-    <!--Div that will hold the pie chart-->
-    <div id="chart_div"></div>
-  </body>
-</html>
+                         <html>
+                          <head>
+                            
+                            <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+                            <script type="text/javascript">
+                        
+                              // Load the Visualization API and the corechart package.
+                              google.charts.load('current', {'packages':['corechart']});
+                        
+                              // Set a callback to run when the Google Visualization API is loaded.
+                              google.charts.setOnLoadCallback(drawChart);
+                        
+                              // Callback that creates and populates a data table,
+                              // instantiates the pie chart, passes in the data and
+                              // draws it.
+                        
+                              function drawChart() {
+                        
+                                // Create the data table.
+                                var data = new google.visualization.DataTable();
+                                data.addColumn('string', 'Topping');
+                                data.addColumn('number', 'Slices');
+                                data.addRows([
+                                  ['Okhla', 812],
+                                  ['Siri Fort', 580],
+                                  ['Greater Kailash', 502],
+                                  ['Green Park', 718],
+                                 
+                                ]);
+                        
+                                // Set chart options
+                                var options = {'title':'Pollution Levels in South Delhi',
+                                               'width':800,
+                                               'height':800};
+                        
+                                // Instantiate and draw our chart, passing in some options.
+                                var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+                                chart.draw(data, options);
+                              }
+                            </script>
+                          </head>
+                        
+                          <body>
+                            <!--Div that will hold the pie chart-->
+                            <div id="chart_div"></div>
+                          </body>
+                        </html>
                            
-                           
+<h4>Bar Chart </h4><br><br><br><br>
+
+                    <html>
+                      <head>
+                        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+                        <script type="text/javascript">
+                          google.charts.load('current', {'packages':['bar']});
+                          google.charts.setOnLoadCallback(drawChart);
+                          function drawChart() {
+                            var data = google.visualization.arrayToDataTable([
+                              ['CO', 'SO2', 'NO', 'CO2'],
+                              ['2014', 1000, 400, 200],
+                              ['2015', 1170, 460, 250],
+                              ['2016', 660, 1120, 300],
+                              ['2017', 1030, 540, 350]
+                            ]);
+                    
+                            var options = {
+                              chart: {
+                    	    title: 'Harmful Gases',
+                    	    subtitle: 'CO, SO2, and NO: 2014-2017',
+                    	  },
+                              bars: 'horizontal' // Required for Material Bar Charts.
+                            };
+                    
+                            var chart = new google.charts.Bar(document.getElementById('barchart_material'));
+                    
+                            chart.draw(data, options);
+                          }
+                        </script>
+                      </head>
+                      <body>
+                        <div id="barchart_material" style="width: 900px; height: 500px;"></div>
+                      </body>
+                    </html>
+                   
                         
    
     
