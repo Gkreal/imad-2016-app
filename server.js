@@ -536,7 +536,7 @@ function plotData(dataSet) {
 
 <body onLoad="init()">
 <div align="center">
-<h2>Pollution levels in Delhi</h2>
+<h4>Pollution levels in Delhi</h4><br><br><br><br>
 
 <canvas id="canvas" height="400" width="650">
 </canvas>
