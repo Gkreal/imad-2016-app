@@ -178,6 +178,13 @@ p8{
     border:black;
 }
 
+.img{
+    height:500;
+    width:340;
+   
+    border:black;
+}
+
 
 element.style {
 position: absolute;
