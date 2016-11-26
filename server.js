@@ -582,7 +582,7 @@ function plotData(dataSet) {
         ]);
 
         // Set chart options
-        var options = {'title':'Pllution Levels in Delhi',
+        var options = {'title':'Pollution Levels in Delhi',
                        'width':800,
                        'height':800};
 
