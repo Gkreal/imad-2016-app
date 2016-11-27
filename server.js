@@ -455,6 +455,8 @@ var articles = {
                    
                     <div class = "container7">
                     <div class = "container4">
+                    
+                   
                     <br><br><br><br>
                     
                     
@@ -475,7 +477,7 @@ var articles = {
         ]);
 
         var options = {
-          title: 'Company Performance',
+          title: 'Line Chart',
           curveType: 'function',
           legend: { position: 'bottom' }
         };
