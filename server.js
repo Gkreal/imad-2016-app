@@ -481,7 +481,7 @@ var articles = {
       }
     </script>
               
-
+<div id="chart_div" style="width: 900px; height: 500px;"></div>
                         <br><br><br><br>
 <h4>Pie chart</h4>
 
