@@ -590,7 +590,7 @@ var articles = {
                     <div class = "container4">
                     <br><br><br><br>
                            
-<h4>Bar Chart </h4><br><br><br><br>
+<h4>Gantt Chart </h4><br><br><br><br>
 
                     <html>
                       <head>
@@ -601,10 +601,10 @@ var articles = {
                           function drawChart() {
                             var data = google.visualization.arrayToDataTable([
                               ['Year', 'Okhla', 'SiriFort, 'Greater Kailash'],
-                              ['2013', 720, 480,460],
-                              ['2014', 740, 480,476],
-                              ['2015', 780, 500,480],
-                              ['2016', 812, 580,502]
+                              ['2013', 720, 480, 460],
+                              ['2014', 740, 480, 476],
+                              ['2015', 780, 500, 480],
+                              ['2016', 812, 580, 502]
                             ]);
                     
                             var options = {
