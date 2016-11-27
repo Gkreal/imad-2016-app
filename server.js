@@ -465,15 +465,15 @@ var articles = {
                         var xScale;
                         var yScale;
                         		// Values for the Data Plot, they can also be obtained from a external file
-                        var Apple =  [100, 102, 87, , 100, 123, 100, 90, 87, 91, 93, 88];
-                        var Samsung = [30, 50, 70, 80, 90, 100, 95, 91, 85, 92, 99, 130];
-                        var Nokia =   [20, -10, -20, -25, -40, 5, 10, 28, 30, 43, 65, 80];
+                        var Okhla =  [680, 710, 650, , 670, 680, 700, 690, , 860, 800, 812];
+                        var Siri Fort = [500, 520, 570, 580, 600, 590, 595, 691, 685, 692, 699, 630];
+                        var Greater Kailash =   [700, 710, 720, 725, 740, 805, 810, 828, 830, 843, 865, 880];
                         
                         function init() {
                         		// set these values for your data 
-                        	sections = 12;
-                        	Val_max = 130;
-                        	Val_min = -40;
+                        	sections = 20;
+                        	Val_max = 1000;
+                        	Val_min = 0;
                         	var stepSize = 10;
                         	var columnSize = 50;
                         	var rowSize = 50;
