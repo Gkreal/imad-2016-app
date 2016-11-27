@@ -274,7 +274,11 @@ var articles = {
                                 
                                  
                                   
-                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Statistics</a> <br><br>
+                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Table</a> <br><br>
+                                   <a href="http://gkreal.imad.hasura-app.io/article-eight" class="button1">Pie Chart</a>
+                                    <a href="http://gkreal.imad.hasura-app.io/article-nine" class="button1">Gantt Chart </a>
+                                    
+                   <br><br><br><br>
                                 
                                
 
@@ -596,17 +600,17 @@ var articles = {
                           google.charts.setOnLoadCallback(drawChart);
                           function drawChart() {
                             var data = google.visualization.arrayToDataTable([
-                              ['CO', 'SO2', 'NO', 'CO2'],
-                              ['2014', 1000, 400, 200],
-                              ['2015', 1170, 460, 250],
-                              ['2016', 660, 1120, 300],
-                              ['2017', 1030, 540, 350]
+                              ['Okhla', 'Siri Fort', 'Greater Kailash'],
+                              ['2013', 720, 480],
+                              ['2014', 740, 480],
+                              ['2015', 780, 500],
+                              ['2016', 812, 580]
                             ]);
                     
                             var options = {
                               chart: {
-                    	    title: 'Harmful Gases',
-                    	    subtitle: 'CO, SO2, and NO: 2014-2017',
+                    	    title: 'Pollution Statistics',
+                    	    subtitle: ' 2013-2016',
                     	  },
                               bars: 'horizontal' // Required for Material Bar Charts.
                             };
