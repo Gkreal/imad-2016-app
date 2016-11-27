@@ -456,7 +456,7 @@ var articles = {
                     <div class = "container7">
                     <div class = "container4">
                     
-                   
+                   <h4>Line Chart </h4>
                     <br><br><br><br>
                     
                     
@@ -477,7 +477,7 @@ var articles = {
         ]);
 
         var options = {
-          title: 'Line Chart',
+          title: 'Pllution Statistics',
           curveType: 'function',
           legend: { position: 'bottom' }
         };
