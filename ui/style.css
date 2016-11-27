@@ -264,6 +264,18 @@ width: 1px;
     padding:50px;
     width:1010px;
 }
+.container5{
+    color: black;
+    text-align:center;
+    background-color:white;
+    background-attachment:fixed;
+    font-weight:bold;
+    font-size:20px;
+    margin-left:150px;
+   
+    padding:50px;
+    width:800px;
+}
 
 .container6{
     
