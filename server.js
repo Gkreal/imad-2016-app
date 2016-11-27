@@ -600,11 +600,11 @@ var articles = {
                           google.charts.setOnLoadCallback(drawChart);
                           function drawChart() {
                             var data = google.visualization.arrayToDataTable([
-                              ['Okhla', 'Siri Fort', 'Greater Kailash'],
-                              ['2013', 720, 480],
-                              ['2014', 740, 480],
-                              ['2015', 780, 500],
-                              ['2016', 812, 580]
+                              ['Year', 'Okhla', 'SiriFort, 'Greater Kailash'],
+                              ['2013', 720, 480,460],
+                              ['2014', 740, 480,476],
+                              ['2015', 780, 500,480],
+                              ['2016', 812, 580,502]
                             ]);
                     
                             var options = {
