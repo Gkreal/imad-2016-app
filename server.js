@@ -601,10 +601,10 @@ var articles = {
                           function drawChart() {
                             var data = google.visualization.arrayToDataTable([
                               ['Year', 'Okhla', 'SiriFort],
-                              ['2013', 720, 480],
-                              ['2014', 740, 480],
-                              ['2015', 780, 500],
-                              ['2016', 812, 580]
+                              ['2013', '720', '480'],
+                              ['2014', '740', '480'],
+                              ['2015', '780', '500'],
+                              ['2016', '812', '580']
                             ]);
                     
                             var options = {
