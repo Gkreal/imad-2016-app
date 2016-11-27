@@ -274,7 +274,7 @@ var articles = {
                                 
                                  
                                   
-                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Line</a> <br><br>
+                                  <a href="http://gkreal.imad.hasura-app.io/article-seven" class="button1">Line</a> 
                                    <a href="http://gkreal.imad.hasura-app.io/article-eight" class="button1">Pie Chart</a>
                                     <a href="http://gkreal.imad.hasura-app.io/article-nine" class="button1">Gantt Chart </a>
                                     
