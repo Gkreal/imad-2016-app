@@ -453,6 +453,9 @@ var articles = {
                     <div class = "container4">
                     <br><br><br><br>
                     
+                    
+                    <html>
+                    <head>
                     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <script type="text/javascript">
       google.charts.load('current', {'packages':['treemap']});
