@@ -477,7 +477,7 @@ var articles = {
         ]);
 
         var options = {
-          title: 'Pllution Statistics',
+          title: 'Pollution Statistics',
           curveType: 'function',
           legend: { position: 'bottom' }
         };
