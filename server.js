@@ -471,7 +471,7 @@ var articles = {
                         
                         function init() {
                         		// set these values for your data 
-                        	sections = 20;
+                        	sections = 12;
                         	Val_max = 1000;
                         	Val_min = 0;
                         	var stepSize = 10;
