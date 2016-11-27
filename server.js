@@ -528,7 +528,7 @@ var articles = {
                    
                     <div class = "container8">
                     <div class = "container5">
-                    <br><br><br><br>
+                   
 
 <h4>Pie chart</h4>
 
