@@ -513,6 +513,17 @@ var articles = {
 </html>
 
                         <br><br><br><br>
+                        
+                        `},
+'article-eight':{
+        title:'Article eight| Garima Khanna',
+        heading:' ',
+        content:`   
+                   
+                    <div class = "container7">
+                    <div class = "container4">
+                    <br><br><br><br>
+
 <h4>Pie chart</h4>
 
                          <html>
@@ -561,7 +572,17 @@ var articles = {
                             <!--Div that will hold the pie chart-->
                             <div id="chart_div"></div>
                           </body>
-                        </html>
+                        </html>`
+},
+
+'article-nine':{
+        title:'Article nine| Garima Khanna',
+        heading:' ',
+        content:`   
+                   
+                    <div class = "container7">
+                    <div class = "container4">
+                    <br><br><br><br>
                            
 <h4>Bar Chart </h4><br><br><br><br>
 
