@@ -467,11 +467,11 @@ var articles = {
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
-          ['Year', 'Sales', 'Expenses'],
-          ['2004',  1000,      400],
-          ['2005',  1170,      460],
-          ['2006',  660,       1120],
-          ['2007',  1030,      540]
+           ['Year', 'Okhla', 'SiriFort', 'Greater Kailash'],
+                              ['2013', 720, 480, 680],
+                              ['2014', 740, 480, 700],
+                              ['2015', 780, 500, 720],
+                              ['2016', 812, 580, 750]
         ]);
 
         var options = {
