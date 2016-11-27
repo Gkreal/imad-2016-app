@@ -622,7 +622,7 @@ var articles = {
                         </script>
                       </head>
                       <body>
-                        <div id="barchart_material" style="width: 850px; height: 500px;"></div>
+                        <div id="barchart_material" style="width: 800px; height: 500px;"></div>
                       </body>
                     </html>
                    
